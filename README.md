@@ -36099,3 +36099,5224 @@ On Fri, Jul 19, 2024 at 3:33 PM tshingombe fiston <tshingombefiston@gmail.com>
 1K View Download
 		image.png
 1K View Download
+Gmail	tshingombe fiston <tshingombefiston@gmail.com>
+SQA MyAlerts Update
+tshingombe fiston <tshingombefiston@gmail.com>	Tue, Mar 25, 2025 at 11:00 AM
+To: web.team@sqa.org.uk
+National 5 Skills for Work Energy
+Course Specification
+(C258 75)
+Valid from August 2013
+This edition, August 2018, version 3.0
+This specification may be reproduced in whole or in part for educational purposes provided
+that no profit is derived from reproduction and that, if reproduced in part, the source is
+acknowledged. Additional copies of this course specification can be downloaded from SQA’s
+website: www.sqa.org.uk.
+Please refer to the note of changes at the end of this course specification for details of
+changes from previous version (where applicable).
+© Scottish Qualifications Authority 2013, 2018October 2018, version 3.0
+1
+Course outline
+Course title:
+National 5 Skills for Work Energy
+SCQF credit points:
+(24 SCQF credit points)
+Course code:
+C258 75
+This course has 3.5 units that are mandatory and a 0.5 unit which is taken from three 0.5
+optional units.
+Mandatory units
+The course comprises the following mandatory units:
+J12W 75
+Energy: An Introduction
+6 SCQF credit points
+J12Y 75
+Energy: Domestic Wind Turbine Systems
+6 SCQF credit points
+J130 75
+Energy: Domestic Solar Hot Water Systems
+6 SCQF credit points
+J12X 75
+Energy: Employability and Careers
+3 SCQF credit points
+Optional units
+The course comprises the following optional units:
+A choice of one from the following options:
+J131 75
+Energy and the Individual
+3 SCQF credit points
+J133 75
+Energy: Oil/Gas Extraction
+3 SCQF credit points
+J132 75
+Energy: Conventional Technologies and the Grid
+3 SCQF credit points
+To achieve the course award, the learner must successfully achieve all the mandatory units
+and one of the optional units.
+Recommended entry
+Entry is at the discretion of the centre.
+Progression
+This course, or its units, may provide progression to:
+ National Progression Award
+ a National Certificate programme in Further Education
+ training/employmentOctober 2018, version 3.0
+2
+Core Skills
+Achievement of this course gives automatic certification of the following Core Skills
+component:
+Complete Core Skill
+Working with Others at SCQF level 4
+Core Skill component
+Critical Thinking at SCQF level 4
+Planning and Organising at SCQF level 4
+Working Co-operatively with Others at SCQF level 4
+There are also opportunities to develop aspects of Core Skills which are highlighted in the
+support notes of the unit specifications.
+Links to National Occupational Standards
+National Occupational Standards (NOS) are developed by the key employment sectors of the
+United Kingdom. These standards set the competences required for job roles within a
+particular employment sector.
+The NOS for the energy sector (eg Occupational and Functional Map of the UK Renewable
+Energy Sector) reflect common requirements in the demonstration of competences across
+that sector.
+Some of these competences, which are identified in the current NOS, are reflected to varying
+degrees in this course. For example:
+ General engineering skills.
+ A combination of integrated electrical installation and plumbing skills.
+ Mechanical skills.
+Additionally, other generic skills included in the NOS are reflected throughout the course
+including:
+ Communication skills.
+ Using IT to exchange information.
+ Team working skills.
+ Ability to learn.
+ Ability to follow instructions.
+ Organising own learning and development.
+Further details are provided in the ‘Rationale’ section.
+Equality and inclusion
+This Course Arrangements Specification has been designed to ensure that there are no
+unnecessary barriers to learning or assessment. The individual needs of learners should be
+taken into account when planning learning experiences, selecting assessment methods or
+considering alternative evidence. Further advice can be found on our website
+www.sqa.org.uk/assessmentarrangements.October 2018, version 3.0
+3
+Common rationale for Skills for Work Courses
+Skills for Work Courses are designed to help learners to develop:
+ Skills and knowledge in a broad vocational area.
+ Skills for learning, skills for life and skills for work.
+ Core Skills.
+ An understanding of the workplace.
+ Positive attitudes to learning.
+ Skills and attitudes for employability.
+A key feature of these courses is the emphasis on experiential learning. This means learning
+through practical experience and learning by reflecting on experience.
+Learning through practical experience
+Teaching/learning programmes should include some or all of the following:
+ Learning in real or simulated workplace settings.
+ Learning through role play activities in vocational contexts.
+ Carrying out case study work.
+ Planning and carrying out practical tasks and assignments.
+Learning through reflecting at all stages of the experience
+Teaching/learning programmes should include some or all of the following:
+ Preparing and planning for the experience.
+ Taking stock throughout the experience, reviewing and adapting as necessary.
+ Reflecting after the activity has been completed, evaluating and identifying learning
+points.
+The Skills for Work courses are also designed to provide learners with opportunities for
+developing Core Skills, and Skills for Learning, Skills for Life and Skills for Work with a focus
+on enhancing skills and attitudes for employability.October 2018, version 3.0
+4
+Core Skills
+The five Core Skills are:
+ Communication
+ Numeracy
+ Information and Communication Technology (ICT)
+ Problem Solving
+ Working with Others
+Employability
+The skills and attitudes for employability, including self-employment, are outlined below:
+ Generic skills/attitudes valued by employers.
+ Understanding of the workplace and the employee's responsibilities, for example,
+timekeeping, appearance, customer care, etc.
+ Self-evaluation skills.
+ Positive attitude to learning.
+ Flexible approaches to solving problems.
+ Adaptability and positive attitude to change.
+ Confidence to set goals, reflect and learn from experience.
+ Specific vocational skills/knowledge.
+Course specifications highlight the links to NOS in the vocational area and identify
+progression opportunities.
+Opportunities for developing these skills and attitudes are highlighted in each of the course
+and unit specifications. These opportunities include giving young people direct access to
+workplace experiences or, through partnership arrangements, providing different learning
+environments and experiences which simulate aspects of the workplace. These experiences
+might include visits, visiting speakers, role play and other practical activities.
+A Curriculum for Excellence (Scottish Executive 2004) identifies aspirations for every young
+person. These are that they should become:
+ successful learners
+ confident individuals
+ responsible citizens
+ effective contributors
+The learning environments, the focus on experiential learning and the opportunities to
+develop employability, Skills for Learning, Skills for Life, Skills for Work and Core Skills in
+these courses contribute to meeting these aspirations.October 2018, version 3.0
+5
+Course rationale for National 5 Skills for Work
+Energy
+All new and revised National Courses reflect Curriculum for Excellence values, purposes and
+principles. They offer flexibility, provide more time for learning, more focus on skills and
+applying learning, and scope for personalisation and choice.
+In this course, and its component units, there will be an emphasis on skills development and
+the application of those skills. Assessment approaches will be proportionate, fit for purpose
+and will promote best practice, enabling learners to achieve the highest standards they can.
+This Skills for Work course is also designed to provide learners with opportunities for
+developing Core Skills and Skills for Learning, Skills for Life and Skills for Work, with a strong
+focus on enhancing skills and attitudes for employability.
+This course is intended to equip learners with the necessary knowledge and skills which will
+enhance their prospects for employment in the wide range of opportunities within energy
+sectors. The course will allow learners to develop a range of employability skills which are of
+particular relevance to energy industries. Core Skills of Information and Communication
+Technology and Problem Solving will also be developed throughout the course where
+opportunities arise. The course will offer a variety of approaches to learning and teaching
+and will include a strong element of experiential learning. It is intended that some of the
+course will be delivered and assessed in a different learning environment to that of the
+school through a partnership arrangement with a college, training provider, or employer.
+There are many technologies used in the production of energy and this course has been
+designed to contain both an electrical generation practical/skills element using wind turbines
+and a heat generation practical/skills element using solar panels. These elements were
+selected to ensure learners receive a range of skills using different technologies that are
+involved in the generation of energy. Other systems used to generate energy from both the
+traditional/conventional and renewable systems will be discussed and evaluated during the
+course.
+The general aims of the course are to:
+ Widen participation in vocationally-related learning for 14–16 year olds.
+ Allow learners to experience vocationally-related learning.
+ Provide learners with a broad introduction to the energy sector.
+ Allow learners the opportunity to develop skills relevant to the microgeneration energy
+sector.
+ Develop the learners’ engineering skills.
+ Encourage learners to evaluate the impact of energy generation on the environment.
+ Encourage learners to foster a good work ethic, including timekeeping, a positive attitude
+and other relevant employability skills.
+ Provide opportunities to develop a range of core skills in a realistic context.
+ Encourage learners to take charge of their own learning and development.
+ Provide a range of teaching, learning, and assessment styles to motivate learners to
+achieve their full potential.
+ Facilitate progression to further education and/or training.October 2018, version 3.0
+6
+In particular, the aims of the course are to:
+ Encourage learners to consider a career in the energy sector.
+ Develop an awareness of the role of conventional and renewable energy systems in the
+UK.
+ Develop an awareness of what opportunities there may be within the sector in terms of
+the types and range of career options.
+ Provide learners with knowledge and skills which are directly relevant to employment
+within the energy sector, eg solar hot water and wind turbines.
+ Provide opportunities for the personal development of skills and attitudes that will
+improve the learners’ employment potential within the energy sector.
+ Develop the learners’ awareness of their individual strengths and weaknesses in relation
+to the requirements of the sector, and to reflect on how this affects their employability
+potential.
+ Raise awareness of the impact of the energy sector on the environment.
+ Raise awareness of the responsibilities of the energy industry with regard to the
+environment.
+Purposes and aims of the course
+The general aims of the course are to:
+ Widen participation in vocationally-related learning for 14–16 year olds.
+ Allow learners to experience vocationally-related learning.
+ Provide learners with a broad introduction to the energy sector.
+ Allow learners the opportunity to develop skills relevant to the microgeneration energy
+sector.
+ Develop the learners’ engineering skills.
+ Encourage learners to evaluate the impact of energy generation on the environment.
+ Encourage learners to foster a good work ethic, including timekeeping, a positive attitude
+and other relevant employability skills.
+ Provide opportunities to develop a range of core skills in a realistic context.
+ Encourage learners to take charge of their own learning and development.
+ Provide a range of teaching, learning, and assessment styles to motivate learners to
+achieve their full potential.
+ Facilitate progression to further education and/or training.October 2018, version 3.0
+7
+In particular, the aims of the course are to:
+ Encourage learners to consider a career in the energy sector.
+ Develop an awareness of the role of conventional and renewable energy systems in the
+UK.
+ Develop an awareness of what opportunities there may be within the sector in terms of
+the types and range of career options.
+ Provide learners with knowledge and skills that are directly relevant to employment
+within the energy sector, eg solar hot water and wind turbines.
+ Provide opportunities for the personal development of skills and attitudes that will
+improve the learners’ employment potential within the energy sector.
+ Develop the learners’ awareness of their individual strengths and weaknesses in relation
+to the requirements of the sector, and to reflect on how this affects their employability
+potential.
+ Raise awareness of the impact of the energy sector on the environment.
+ Raise awareness of the responsibilities of the energy industry with regard to the
+environment.
+Information about typical learners who might do the course
+The primary target group for this course is school learners in S3 and S4. However, the
+course is also suitable for S5/S6 learners and adult learners who are seeking to enhance
+their employability and vocational skills in the energy sector.October 2018, version 3.0
+8
+Course structure and conditions of award
+Summary of course content
+Learners will explore a variety and range of industries and career opportunities which exist
+within the energy sector. Learners will become familiar with key words and terms used in the
+sector, and will develop an awareness of the impact of the energy sector on the environment
+and individual lives. Personal development of employability skills will be the main focus
+across the course with each unit aiming to enhance such skills. The development of
+teamwork and practical skills and carrying out test procedures are also given high profile.
+The mandatory units in this course introduce the various energy industries based in the UK,
+develop practical skills by building a small scale solar hot water system and wind turbine, and
+learners will also review their employability skills and evaluate their strengths and
+weaknesses. There is an opportunity to specialise in one subject area by selecting one of the
+three optional units, ie analyse their own carbon footprint or develop a deeper knowledge of
+oil and gas production in the North Sea or develop further knowledge on the conventional
+energy generation systems used in the UK.
+Summary of unit content
+Units are statements of standards for assessment and not programmes of learning and
+teaching. They can be delivered in a variety of ways; however Skills for Work units are
+designed to provide an experiential learning process.
+Energy: An Introduction (National 5) — Mandatory
+The aim of the unit is to provide learners with an overview of where we get our energy from,
+the engineering systems that convert it into a more convenient form, and the energy
+conversion processes that take place from fuel being input to energy being generated.
+It gives a broad overview of traditional and renewable energy systems, energy conservation
+and includes an evaluation of an industrial or domestic energy generation facility.
+Investigation and presentation skills are developed in this unit.
+Energy: Domestic Solar Hot Water Systems (National 5) — Mandatory
+The unit introduces a microgeneration system which generates heat from solar energy and
+transfers this heat energy to a heat exchanger and on to other appliances, eg hot water tank
+or under-floor heating system suitable for use in a domestic or small scale industrial building.
+This is a practical skills based unit which gives students the practical skills to manufacture
+some of the parts and assemble a small solar hot water panel through team working which is
+seen as an essential element in this unit.
+Energy: Domestic Wind Turbine Systems (National 5) — Mandatory
+This unit introduces residential or microgeneration wind turbine systems which generate
+electrical energy. This is a practical skills based unit which will give students the ability to
+wire up an electrical circuit, manufacture parts, assemble, and test a small scale wind
+turbine. The learners will use prepared components to build the turbine. Team working is
+seen as an essential element in this unit.
+Energy: Employability and Careers (National 5) — Mandatory
+Learners will review their performance in the employability skills undertaken in significant
+practical activities in the units throughout the course and evaluate their own strengths and
+weaknesses. It will also involve students investigating careers and job roles within the energy
+sector.October 2018, version 3.0
+9
+Energy and the Individual (National 5) — Optional
+Learners will investigate the energy they use over an average year. This will include
+producing their own carbon footprint. From the data gained, they will review and evaluate
+their lifestyles to try and reduce the energy they consume and thereby reduce the size of
+their carbon emissions/footprint. Presentation skills will also be developed in this unit.
+Energy: Oil/Gas Extraction (National 5) — Optional
+Learners will be introduced to the formation of oil and gas fields and the sustainability of
+these fields, and the type of platform construction used on offshore installations. The
+methods used to extract oil and gas including drilling, mud, and fluid control will also be
+investigated.
+Energy: Conventional Technologies and the Grid (National 5) — Optional
+Learners will investigate how conventional energy generation plants support the UK’s total
+energy needs and review the effect each of them has on the environment. They will
+investigate systems used to generate electricity using coal, oil, gas, hydro, and nuclear
+energy as a power source. The national grid and the distribution of energy/power will be
+investigated from both present, and projected, future needs.
+Conditions of award
+To achieve the award of National 5 Skills for Work Energy, learners must achieve all the
+required units as outlined in the course outline. They will be assessed pass/fail within
+centres. Skills for Work Courses are not graded. October 2018, version 3.0
+10
+Assessment
+Assessment objectives
+The aim of the assessment in this course is to provide opportunities to gather evidence of
+development in:
+ practical skills
+ review and evaluation skills
+ investigation skills
+ knowledge and understanding
+Unit assessment
+The assessment of the units in this course will be as follows:
+Unit title
+Assessment
+Mandatory units
+Energy: An Introduction (National 5)
+outcome 1, outcome 2 and outcome 3 —
+investigation
+outcome 4 — group presentation
+Energy: Domestic Solar Hot Water Systems
+(National 5)
+outcome 1 individual practical exercises
+outcome 2 and outcome 3 — teamwork
+practical exercise
+outcome 4 — presentation
+Domestic Wind Turbine Systems (National 5) outcome 1 and outcome 2 — individual
+practical exercises
+outcome 3 and outcome 4 — teamwork
+practical exercise
+outcome 5 — presentation
+Energy: Employability and Careers
+(National 5)
+outcome 1 — review and evaluation
+outcome 2 — presentation
+Unit title
+Assessment
+Optional units
+Energy and the Individual (National 5)
+outcome 1 and outcome 2 — investigation
+outcome 3 — presentation
+Energy: Oil/Gas Extraction (National 5)
+outcome 1 and outcome 2 — investigation
+outcome 3 — presentation
+Energy: Conventional Production
+Technologies and the Grid (National 5)
+outcome 1 and outcome 2 — investigation
+outcome 3 — presentation
+It is the intention that the necessary skills and attitudes being developed in this course are
+assessed through the learners’ involvement in a range of practical activities, however, there
+are also elements of knowledge and understanding which are important. An important
+element in the assessment process will be the ability of the learner to review progress and
+development throughout the course. Where possible, assessment should reflect current
+workplace practice, whether demonstrated through work placement, or simulated
+environments.October 2018, version 3.0
+11
+Unit assessment
+Further details about unit assessment for this course can be found in the unit specifications
+and the assessment support materials.
+Exemplification of possible assessment approaches for these units will be provided in the
+assessment support pack.
+Quality assurance
+All instruments of assessment used within this course should be internally verified, using the
+appropriate policy within the centre and the guidelines set by SQA.
+External verification will be carried out by SQA to ensure that internal assessment is within
+the national guidelines for these qualifications.
+Further information on internal and external verification can be found in SQA’s Guide to
+Assessment (www.sqa.org.uk/GuideToAssessment).October 2018, version 3.0
+12
+Development of skills for learning, skills for life and
+skills for work
+It is expected that learners will develop broad, generic skills through this course. The skills
+that learners will be expected to improve on and develop through the course are based on
+SQA’s Skills Framework: Skills for Learning, Skills for Life and Skills for Work and drawn
+from the main skills areas listed below. These must be built into the course where there are
+appropriate opportunities.
+1
+Literacy
+1.1 Reading
+1.2 Writing
+1.3 Listening and talking
+3
+Health and Wellbeing
+3.1 Personal learning
+3.2 Emotional wellbeing
+3.4 Planning for, and making, choices and changes
+4
+Employability, enterprise and citizenship
+4.1 Employability
+4.3 Working with others
+4.4 Enterprise
+5
+Thinking Skills
+5.1 Remembering
+5.2 Understanding
+5.3 Applying
+5.4 Analysing and evaluating
+5.5 Creating
+Amplification of these skills is given in SQA’s Skills Framework: Skills for Learning, Skills for
+Life and Skills for Work. The level of these skills will be appropriate to the level of the course.October 2018, version 3.0
+13
+Employability skills profile
+In addition to the specific vocational skills developed and assessed in this course,
+employability skills are addressed as detailed in the table below. For the purposes of the
+table, the units are referred to as A, B, C and D as indicated.
+Energy: Introduction — mandatory
+= A
+Energy: Domestic Solar Hot Water Systems — mandatory
+= B
+Domestic Energy Systems: Wind Turbine Systems — mandatory
+= C
+Energy: Employability and Careers — mandatory
+= D
+Energy and the Individual — optional
+= E
+Energy: Oil/Gas Extraction — optional
+= F
+Energy: Conventional Production Technologies and the Grid — optional
+= G
+Employability skill/attitude
+Evidence
+ Maintaining good timekeeping and attendance
+A, B, C, D, E/F/G
+ Maintaining a tidy workplace
+B, C
+ Seeking feedback and advice
+A, B, C, D, E/F/G
+ Following instructions
+B, C
+ Working co-operatively with others
+A, B, C
+ Selecting and using tools correctly and for the purpose they were
+designed
+B, C
+ Using Personal Protective Equipment correctly and working safely
+A, B, C
+ Following basic drawings correctly
+B, C
+ Checking quality of work
+A, B, C, D, E/F/G
+ Working to agreed deadlines
+A, B, C, D, E/F/G
+ Organising work effectively
+A, B, C, D, E/F/G
+ Working confidently
+A, B, C, D, E/F/G
+ Willingness to learn new skills or techniques
+B, C
+ Working independently
+A, B, C, D, E/F/G
+ Reflecting on own performance
+B, C
+ Learning from past experiences
+B, C
+ Awareness of a range of careers and job roles
+D
+ Developing investigation skills
+A, D, E/F/G
+ Developing presentation skills
+A, B, C, D, E/F/G
+ Developing creativity skills
+A, B, C, D, E/F/G
+Assessment evidence in all units:
+Learner folio of performance and product evidence in response to a given brief, supported by
+assessor checklists.October 2018, version 3.0
+14
+Course support notes
+Course support notes are not mandatory; they provide advice and guidance on approaches
+to delivering and assessing the Skills for Work course. They are intended for teachers and
+lecturers who are delivering the course and its units.
+Guidance on approaches to delivery and assessment for this
+course
+Centres should ensure that an induction to the course is given which will enable learners to
+understand fully what is required and the approaches to be adopted. It is important that
+employability skills, both generic and specific to the energy industries, are stressed at this
+time.
+Sequencing/integration of units
+While the sequence of delivery of the units is for individual centres to decide, it is
+recommended that Energy: An Introduction (National 5) unit is offered first. This unit sets the
+scene for the other units to be delivered in the context of the energy sector and the energy
+people use. All teachers, lecturers and assessors involved in the delivery and assessment of
+this course should have an appreciation of the nature and content of the whole course. This
+is particularly important in the delivery of the Energy: Employability and Careers (National 5)
+unit. It is intended that the evidence requirements for this unit will be drawn from the other
+units in the course.
+Guidance on approaches to delivery
+The course has been designed to ensure that learners learn through practical experiences
+where possible. The main focus in each of the skills specific units is on practical work.
+General vocational skills, such as selecting and maintaining tools and equipment, are
+integrated with practical engineering activities within the units.
+Energy: An Introduction (National 5) includes practical lab work where learners will gain a
+greater understanding of the principles of energy conversion and how we can generate more
+useful forms of energy that can be used in a range of energy production processes.
+Learners should be encouraged to investigate energy related topics, including careers, within
+the energy sector, and the effect energy production has on the environment or climate
+change.
+Health and safety is integral to all practical tasks and should be emphasised at the start of,
+and throughout, each lesson. Brief lessons on workshop protocol should also be included at
+the start of the practical units and at appropriate points during these units.
+Teaching and learning approaches will include demonstrations of practical work by tutors.
+Short lessons on specific aspects of industrial practice and the correct use of tools will prove
+invaluable at intervals throughout the learning experience. These may be followed by brief
+practical sessions in which the learners practise the skill emphasised by the demonstration.
+Given the practical nature of teaching/learning and assessment, centres should ensure that
+teaching blocks are of sufficient time to allow a meaningful experience for learners.
+Reflecting on practical experiences and learning from them is an approach that is embedded
+in the course. Throughout the learning experiences, the emphasis should be on helping
+learners to develop an awareness of the employability skills and attitudes needed for the
+energy industry, for example, good timekeeping, co-operating with others, team working, October 2018, version 3.0
+15
+taking instructions, and a positive attitude to learning. Opportunities to develop these skills
+and attitudes arise naturally in the work during the course. Learners should be aware that
+these generic skills are just as important as the practical skills they are developing. For
+example, it is important for workshop activities to be carried out to effective schedules;
+learners will have opportunities to demonstrate good timekeeping in the context of these
+schedules. Learners will have to co-operate with others regarding shared workspace, tools
+and equipment. They will have to co-operate and communicate regarding the transfer of
+materials, tools, and equipment safely around and across the workshop. Learners will be
+encouraged to develop a positive attitude to reducing waste and reduce their impact on the
+environment with regard to the use of materials and the consumption of energy.
+Teaching and learning approaches should encourage learners to take responsibility for their
+own learning and development. In the practical units of the course, learners need to carry out
+quality checks on their own work. This provides a good opportunity to motivate learners to
+take pride in their work. The integration of employability skills, in particular self-evaluation
+skills, will allow learners to take responsibility for seeking feedback and identifying action
+points for improvement in their own performance. This should help to develop confidence in
+taking advice and in asking for direction and assistance where necessary.
+Investigations are used throughout this course and lecturing staff should encourage learners
+to use as many methods as possible to gain the information they need. Apart from the
+teaching notes provided, learners should make full use of the internet, journals (online and
+paper-based), books, national and local papers, friends or family who have knowledge or
+experience of the energy sector, site visits, practical demonstrations, and experimentation.
+Presentations are also frequently used in this course. Learners should be encouraged to use
+their creativity skills to develop a range of skills in presenting information, this could include a
+talk, flipcharts, whiteboard (electronic), computer software, practical demonstrations, digital
+pictures, video clips (using a mobile phone or camcorder).
+Teaching staff should emphasise the need for learners to try and develop their own ideas to
+solve problems or issues; these can then be used as points for discussion. Giving learners
+the solution should not be seen as the first option. Learners should be encouraged to play an
+active part in their own learning by discussing their views and thoughts on the technologies
+being used, the environment, careers and personal preferences with peers and teaching
+staff.
+Guidance on approaches to assessment
+Throughout the course, the need for correct preparation for practical activities should be
+stressed. However, such preparation should not take excessive time to complete. Teaching
+correct skills practice, effective and safe use of tools and equipment, and a positive view of
+health and safety should help to ensure that preparation for practical work is comprehensive.
+Learners will require supervision during practical work — both on a skills level and for health
+and safety reasons. The learning environment should be designed to minimise risks and
+provide a safe context for carrying out tasks. For example, when undertaking the task of
+soldering, learners should be made aware of the risk from heat and fumes to themselves and
+others.
+It is recommended that each practical session be preceded by a ‘tool box’ talk on an aspect
+of health and safety relevant to the work in hand. It is recommended that learners be given
+regular but short practice sessions in the correct and safe working principles of the materials
+to be used in each session, as well as coaching in the correct use of associated tools and
+equipment.October 2018, version 3.0
+16
+Centres are encouraged to establish links with local industry. Local engineering companies,
+trades associations, Sector Skills Councils (SSCs) and Engineering or Energy Institutes
+may be prepared to offer support, for example, in the form of visits from representatives of
+their organisations. Visitors from the energy industry will be able to give learners a realistic
+view of jobs and conditions within the energy sector.
+Centres should try and arrange a visit to an energy generation facility as part of the
+learners’ learning experience and assessment. Visits to local sites are often particularly
+useful to give learners a feel for the environment, equipment, and staff working and
+using energy generation systems.
+Site visits should be carefully arranged, organised and authorised. Due regard should be
+placed on insurance arrangements, necessary when taking students on these visits,
+particularly when going on to industrial sites.
+Teaching and learning approaches should impart enthusiasm and help to inform learners of
+realistic prospects in the energy industries. They should become aware of steps to
+employment or further training. Through their experiences of the various practical skills and
+knowledge of various energy systems in the course, they should become better equipped to
+make valid personal choices regarding careers and further study.
+A holistic approach to the course delivery and assessment should be adopted. The types of
+energy generation methods and plant/systems contained within the Energy: An Introduction
+(National 5) unit should form the basis of the practical units Energy: Domestic Wind Turbine
+Systems (National 5) and Energy: Domestic Solar Hot Water Systems (National 5). Energy:
+Employability and Careers (National 5) unit should be central to the whole course and
+delivered alongside the other units.
+Opportunities for e-assessment
+E-assessment may be appropriate for some assessments in this course. By e-assessment
+we mean assessment which is supported by Information and Communication Technology
+(ICT), such as e-testing or the use of e-portfolios or social software. Centres which wish to
+use e-assessment must ensure that the national standard is applied to all learner evidence
+and that conditions of assessment as specified in the evidence requirements are met,
+regardless of the mode of gathering evidence. The most up-to-date guidance on the use of
+e-assessment to support SQA’s qualifications is available at www.sqa.org.uk/e-assessment.
+Opportunities for developing Core Skills
+Learners will be encouraged to learn through practical activity with workshop skills, and
+practical lab work, forming a main type of delivery. The development of Core Skills and
+employability skills should be uppermost in the minds of those considering how to plan
+lessons. Learners should be encouraged to accept responsibility for learning and ownership
+of the review and self-evaluation process. The Energy: Employability and Careers (National
+5) unit, in particular, will actively encourage learners to analyse their strengths and
+weaknesses with regard to the employability skills identified within the course units and
+review their own performance through self-reflection and self-evaluation. Tasks involving
+investigations into energy systems and the effects these energy systems have on individuals
+or the environment should be incorporated throughout the course. This approach will
+encourage development in the use of information technology as a tool for information
+gathering and analysis, independent working, and investigation skills.October 2018, version 3.0
+17
+Opportunities to develop aspects of Core Skills should be used where they arise naturally.
+For example, in order to carry out activities in a workshop environment, learners will develop
+aspects of numeracy when making calculations and taking measurements. They will also
+have to communicate simple science/engineering/construction terms with tutors and fellow
+learners regarding skills practices, materials and tools, health and safety, and working
+together in the workplace. They will have to work in a team during the practical units; it is
+important that they realise what the positive attitudes are to ensure good team working
+dynamics. Aspects of Problem Solving will arise through their participation in practical work.
+This course gives automatic certification of Working with Others at SCQF level 4, Critical
+Thinking at SCQF level 4, and Planning and Organising at SCQF level 4.October 2018, version 3.0
+18
+General information for learners
+The National 5 Skills for Work Energy course is an introduction to the various energy
+industries based in the UK. You will also develop practical skills by building a small scale
+solar hot water system and wind turbine, review your employability skills and evaluate your
+own strengths and weaknesses.
+There is an opportunity to specialise in one subject area by selecting one of the three
+specialist areas to study:
+ analyse your own carbon footprint
+ develop a deeper knowledge of oil and gas production in the North Sea
+ develop further knowledge on the conventional energy generation systems used in
+the UK
+The primary target group for this course is school learners in S3 and S4. However, it is also
+suitable if you are an S5/S6 learner, or an adult learner wanting to increase employability and
+vocational skills in the energy sector.
+Once you have finished this course, you may progress to:
+ a National Progression Award
+ a National Certificate programme in Further Education
+ training/employmentOctober 2018, version 3.0
+19
+Administrative information
+Published:
+October 2018 (version 3.0)
+History of changes to national course specification
+Version
+Description of change
+Date
+2.0
+2013 — course re-coded as part of CfE development
+programme but no change to course and unit content.
+August 2013
+3.0
+Course specification moved to a new template. No change to
+content. Units re-coded to align with corresponding course 2
+code.
+October 2018
+This specification may be reproduced in whole or in part for educational purposes provided
+that no profit is derived from reproduction and that, if reproduced in part, the source is
+acknowledged. Additional copies of this course specification can be downloaded from SQA’s
+website at www.sqa.org.uk.
+Note: You are advised to check SQA’s website (www.sqa.org.uk) to ensure you are using
+the most up-to-date version of the course specification.
+© Scottish Qualifications Authority 2013, 2018
+1
+National Qualifications 2019
+Qualification Verification Summary Report
+Skills for Work: Energy
+The purpose of this report is to provide feedback to centres on verification in
+National Qualifications in this subject.Skills for Work Courses
+Skills for Work: Energy (National 5)
+General comments
+This session saw an increase in the number of centres offering this award. All the
+newly-approved centres were schools and it appears that the ‘re-branding’ of the
+award as ‘National 5 Energy’ was a significant factor in the increase.
+Course arrangements, unit specifications, instruments of
+assessment and exemplification materials
+The majority of the assessments used were from the assessment support packs,
+or localised adaptations of these. In all cases where adaptions had been made,
+these were appropriate and assessments remained valid.
+Evidence requirements
+At each of the four centres visited, candidate evidence that was reviewed met the
+requirements of the unit specifications. Evidence was presented in the form of
+physical artefacts, paper documents and electronic submissions.
+Administration of assessments
+Assessments had been administered correctly and all assessment and internal
+verification judgements were valid for the samples reviewed.
+Centres have been utilising appropriate practices and documentation to
+administer and record their internal verification activity.
+Areas of good practice
+ Internal verification processes supported by course documents including a
+course verification plan with a checklist of required actions and associated
+comments.
+ Innovation in the use of resources required to deliver the award successfully
+— for example, the use of component kits to facilitate efficient assembly work
+by candidates.
+ Up-cycling of discarded materials for the construction element of the
+Domestic Wind Turbine module.
+ The use of an online calculator to assist candidates evaluate their own carbon
+footprint helps reinforce the significance of the environmental impact of
+individuals.
+2
+National 4 Skills for Work
+Engineering Skills Course
+Specification
+(C243 74)
+Valid from August 2013
+This edition, October 2018, version 3.0
+This specification may be reproduced in whole or in part for educational purposes provided
+that no profit is derived from reproduction and that, if reproduced in part, the source is
+acknowledged. Additional copies of this course specification can be downloaded from SQA’s
+website: www.sqa.org.uk.
+Please refer to the note of changes at the end of this course specification for details of
+changes from previous version (where applicable).
+© Scottish Qualifications Authority 2013, 2018October 2018, version 3.0
+1
+Course outline
+Course title:
+National 4 Skills for Work Engineering Skills
+SCQF credit points:
+(24 SCQF credit points)
+Course code:
+C243 74
+Mandatory units
+The course comprises the following mandatory units:
+J16F 74
+Engineering Skills: Mechanical
+6 SCQF credit points
+J16G 74
+Engineering Skills: Electrical/Electronic
+6 SCQF credit points
+J145 74
+Engineering Skills: Fabrication
+6 SCQF credit points
+J144 74
+Engineering Skills: Manufacture and Assembly 6 SCQF credit points
+Recommended entry
+Entry to this course is at the discretion of the centre. However, learners would normally be
+expected to have attained the skills, knowledge and understanding required by the following
+or equivalent qualifications and/or experience:
+ an interest in engineering
+ an ability to work in numeracy and literacy at SCQF level 3
+ some aptitude for graphical forms of communication
+In terms of prior learning and experience, relevant experiences and outcomes may also
+provide an appropriate basis for doing this course.
+Progression
+This course or its components may provide progression to:
+ Scottish Progression Award in Engineering (National 5)
+ SVQs and Modern Apprenticeships in Engineering areas
+ further study, employment and/or trainingOctober 2018, version 3.0
+2
+Core Skills
+Achievement of this course gives automatic certification of the following Core Skills
+component:
+Core Skill component
+Critical Thinking at SCQF level 4
+There are also opportunities to develop aspects of Core Skills which are highlighted in the
+support notes of this unit specification.
+Links to National Occupational Standards
+National Occupational Standards (NOS) are developed by the key employment sectors of the
+United Kingdom. These standards set the competences required for job roles within a
+particular employment sector.
+The National 4 Skills for Work Engineering Skills course has been designed to link broadly to
+NOS, but the standards required of first-year apprentices in the engineering industry are
+significantly more onerous than those in this course.
+Compared to NOS, this course requires either reduced scale and complexity, or more
+achievable tolerances, and therefore provides a useful preparation for employment or further
+training in the engineering industry. The general tolerance required for the practical activities
+in this course should be ±3mm. The specific tolerances required for practical unit
+assessments are specified in the assessment support packs (ASPs).
+Further details are provided in the ‘Rationale’ section.
+Equality and inclusion
+This Course Arrangements Specification has been designed to ensure that there are no
+unnecessary barriers to learning or assessment. The individual needs of learners should be
+taken into account when planning learning experiences, selecting assessment methods or
+considering alternative evidence. Further advice can be found on our website
+www.sqa.org.uk/assessmentarrangements.October 2018, version 3.0
+3
+Common rationale for Skills for Work Courses
+Skills for Work Courses are designed to help learners to develop:
+ skills and knowledge in a broad vocational area
+ skills for learning, skills for life and skills for work
+ Core Skills
+ an understanding of the workplace
+ positive attitudes to learning
+ skills and attitudes for employability
+A key feature of these courses is the emphasis on experiential learning. This means learning
+through practical experience and learning by reflecting on experience.
+Learning through practical experience
+Teaching/learning programmes should include some or all of the following:
+ learning in real or simulated workplace settings
+ learning through role play activities in vocational contexts
+ carrying out case study work
+ planning and carrying out practical tasks and assignments
+Learning through reflecting at all stages of the experience
+Teaching/learning programmes should include some or all of the following:
+ preparing and planning for the experience
+ taking stock throughout the experience, reviewing and adapting as necessary
+ reflecting after the activity has been completed, evaluating and identifying learning points
+The Skills for Work Courses are also designed to provide learners with opportunities for
+developing Core Skills, and Skills for Learning, Skills for Life and Skills for Work with a focus
+on enhancing skills and attitudes for employability.October 2018, version 3.0
+4
+Core Skills
+The five Core Skills are:
+ Communication
+ Numeracy
+ Information and Communication Technology (ICT)
+ Problem Solving
+ Working with Others
+Employability
+The skills and attitudes for employability, including self-employment, are outlined below:
+ generic skills/attitudes valued by employers
+ understanding of the workplace and the employee's responsibilities, for example, time
+keeping, appearance, customer care, etc
+ self-evaluation skills
+ positive attitude to learning
+ flexible approaches to solving problems
+ adaptability and positive attitude to change
+ confidence to set goals, reflect and learn from experience
+ specific vocational skills/knowledge
+Course specifications highlight the links to NOS in the vocational area and identify
+progression opportunities.
+Opportunities for developing these skills and attitudes are highlighted in each of the course
+and unit specifications. These opportunities include giving young people direct access to
+workplace experiences or, through partnership arrangements, providing different learning
+environments and experiences which simulate aspects of the workplace. These experiences
+might include visits, visiting speakers, role play and other practical activities.
+A Curriculum for Excellence (Scottish Executive 2004) identifies aspirations for every young
+person. These are that they should become:
+ successful learners
+ confident individuals
+ responsible citizens
+ effective contributors
+The learning environments, the focus on experiential learning and the opportunities to
+develop employability, Skills for Learning, Skills for Life, Skills for Work and Core Skills in
+these courses contribute to meeting these aspirations.October 2018, version 3.0
+5
+Course rationale for National 4 Skills for Work
+Engineering Skills
+All new and revised National Courses reflect Curriculum for Excellence values, purposes and
+principles. They offer flexibility, provide more time for learning, more focus on skills and
+applying learning, and scope for personalisation and choice.
+In this course, and its component units, there will be an emphasis on skills development and
+the application of those skills. Assessment approaches will be proportionate, fit for purpose
+and will promote best practice, enabling learners to achieve the highest standards they can.
+This Skills for Work course is also designed to provide learners with opportunities for
+developing Core Skills and Skills for Learning, Skills for Life and Skills for Work, with a strong
+focus on enhancing skills and attitudes for employability.
+The National 4 Skills for Work Engineering Skills course has been designed to provide a
+basis for progression into further education or for moving directly into training in employment
+within an engineering sector. The overall purpose of the course is to ensure that learners
+start to develop the generic and practical skills, knowledge and understanding and
+employability skills needed within an engineering sector.
+The engineering sector includes the following:
+Mechanical
+Manufacture
+Maintenance
+Fabrication
+Welding
+Electrical
+Electronic
+Foundry
+Automotive
+Servicing
+Transport
+Aeronautical
+Communications
+Space
+Energy generation
+Conservation
+Marine
+Water
+Salination
+Oil/Gas
+Petroleum
+This course focuses on the four broad areas of mechanical, electrical/electronic, fabrication
+and manufacture. This will allow the learners to gain basic transferable skills which can be
+applied to any of the above engineering areas.
+Purposes and aims of the course
+The general aims of this course are to:
+ Widen participation in vocationally-related learning for school learners from S3 upwards.
+ Allow learners to experience vocationally-related learning.
+ Provide learners with a broad introduction to the engineering vocational sector.
+ Encourage learners to foster a good work ethic, including time-keeping, a positive attitude
+and other relevant employability skills.
+ Provide opportunities to develop a range of Core Skills in a vocational context.
+ Encourage learners to take charge of their own learning and development.
+ Provide a range of teaching, learning and assessment styles to motivate learners to
+achieve their full potential.
+ Facilitate progression to further education and/or training.
+ Encourage learners to plan their work and review their progress.
+ Encourage learners to develop a positive attitude to waste minimisation and
+environmental issues.October 2018, version 3.0
+6
+In particular, the aims of the National 4 Skills for Work Engineering Skills course are to:
+ Encourage learners to consider a career in the engineering industry.
+ Develop an awareness of the opportunities there may be within engineering in terms of
+the types and range of career options.
+ Enable learners to develop and apply practical, technical and communication skills as a
+foundation for future learning and progression.
+ Develop the learners’ awareness of their individual strengths and weaknesses in relation
+to the requirements of engineering, and to reflect on how this affects their employability
+potential.
+ Give learners the technical knowledge, skills and understanding associated with a range
+of skills in engineering at this level.
+ Encourage learners to apply their knowledge and understanding of engineering by using
+skills of evaluation and problem solving in a vocational context.
+ Develop an awareness that health and safety issues are integral to the world of work
+generally and engineering in particular.
+ Prepare learners for further learning opportunities, study and training for employment in
+engineering and related occupations.
+Information about typical learners who might do the course
+The primary target group for this course is school learners in S3 and above. This course is
+designed at a level and scope such that it can be delivered in schools, if the school has
+suitable facilities and teaching expertise.
+Due to the specialist expertise and facilities available in further education colleges and with
+training providers, it is anticipated that the course will rely on, and build on, existing
+partnerships between schools, further education colleges, training providers and employers,
+A partnership approach will enable the course to be delivered in a variety of appropriate
+learning environments enhancing the learning experience.
+The course is also suitable for adult learners who are seeking to enhance their employability
+and develop introductory vocational skills in an engineering sector.October 2018, version 3.0
+7
+Course structure and conditions of award
+Summary of course content
+This course comprises four 40-hour units. The content of the course focuses on the
+development of basic hand skills across the disciplines of mechanical, electrical/electronic,
+fabrication and manufacture and assembly. Central to the content are the generic
+employability skills valued by employers in an engineering sector. These skills are developed
+in each of the four units and are assessed at least twice during the course. These add value
+to the development of the specific vocational skills.
+All the engineering skills units, while focusing on specific skill areas, also address generic
+skills related to:
+ engineering communications
+ engineering materials
+ measurement and marking
+ working to tolerances
+ Core Skills
+The engineering skills units also include employability skills outlined below:
+ time-keeping and attendance
+ positive attitudes to learning
+ responding positively to advice and feedback
+ following instructions
+ working co-operatively with others
+ health and safety awareness
+ necessary preparation planning
+ checking own work
+ problem solving
+Summary of unit content
+Units are statements of standards for assessment and not programmes of learning and
+teaching. They can be delivered in a variety of ways; however Skills for Work units are
+designed to provide an experiential learning process.
+Engineering Skills: Mechanical (National 4)
+This unit is designed to be the first attempted on the course. Learners are required to select
+the correct tools and materials required to safely manufacture an artefact. During the
+manufacture, learners will read simple engineering drawings, measure and mark, select
+appropriate materials and work to specified tolerances. Embedded into the practical activities
+of this unit are the employability skills that employers value. Although it is envisaged that all
+employability skills will be developed in this unit, not all will be assessed.
+Engineering Skills: Electrical/Electronic (National 4)
+In this unit learners will select the correct tools and components required to construct a basic
+functional extra low voltage electrical/electronic circuit from a given diagram and
+specification. Embedded into the practical activities of this unit are the employability skills
+that employers value. Although it is envisaged that all employability skills will be developed in
+this unit, not all will be assessed.October 2018, version 3.0
+8
+Engineering Skills: Fabrication (National 4)
+In this unit learners will select the correct tools, materials and equipment required to
+manufacture an artefact using cutting, hot and cold forming and mechanical and thermal
+joining techniques. Embedded into the practical activities of this unit are the employability
+skills that employers value. Although it is envisaged that all employability skills will be
+developed in this unit, not all will be assessed.
+Engineering Skills: Manufacture and Assembly (National 4)
+This unit is designed to be attempted only after successful completion of the preceding skills
+units. Learners will select and safely use the correct tools and materials to manufacture,
+assemble and complete functionality tests on an artefact. Learners will evaluate and report
+their findings on the manufacture, assembly and functionality tests of the artefact. Embedded
+into the practical activities of this unit are the employability skills that employers value.
+Although it is envisaged that all employability skills will be developed in this unit, not all will
+be assessed.
+Conditions of award
+To achieve the award of National 4 Skills for Work Engineering Skills, learners must achieve
+all the required units as outlined in the course outline. They will be assessed pass/fail within
+centres. Skills for Work Courses are not graded. October 2018, version 3.0
+9
+Assessment
+Assessment objectives
+Assessment across the units in this course will primarily test practical skills but will also
+address the technical knowledge and understanding associated with those skills in
+engineering at National 4. In particular, assessment will focus on:
+ practical vocational skills
+ skills for employment in an engineering context
+Unit assessment
+In all of the units that focus on the development of specific engineering skills, assessment
+follows a similar pattern involving a range of practical activities which will produce evidence
+for all the outcomes. The evidence will be confirmed by the use of an assessor checklist,
+which will cover:
+ interpretation of a drawing or specification
+ the appropriate use of tools, materials and equipment
+ successful involvement in the completion of a task, product or assembly
+ quality checking of their work by the learner
+ attention to health and safety aspects of working in a workshop type of environment
+The assessment of employability skills is integrated in all of the units and is based on
+assessor checklists and the completion of a learner review sheet on four different occasions
+throughout the course. This review allows the learner to record development of employability
+skills in the context of different skill areas.
+Further details about unit assessment for this course can be found in the unit specifications
+and the ASP materials.
+Exemplification of possible assessment approaches for these units will be provided in the
+ASP.
+Quality assurance
+All instruments of assessment used within this course should be internally verified, using the
+appropriate policy within the centre and the guidelines set by SQA.
+External verification will be carried out by SQA to ensure that internal assessment is within
+the national guidelines for these qualifications.
+Further information on internal and external verification can be found in SQA’s Guide to
+Assessment (www.sqa.org.uk/GuideToAssessment).October 2018, version 3.0
+10
+Development of skills for learning, skills for life and
+skills for work
+It is expected that learners will develop broad, generic skills through this course. The skills
+that learners will be expected to improve on and develop through the course are based on
+SQA’s Skills Framework: Skills for Learning, Skills for Life and Skills for Work and drawn
+from the main skills areas listed below. These must be built into the course where there are
+appropriate opportunities.
+1
+Literacy
+1.1 Reading
+1.2 Writing
+1.3 Listening and talking
+3
+Health and Wellbeing
+3.1 Personal learning
+3.2 Emotional wellbeing
+3.4 Planning for, and making, choices and changes
+4
+Employability, enterprise and citizenship
+4.1 Employability
+4.3 Working with others
+4.4 Enterprise
+5
+Thinking Skills
+5.1 Remembering
+5.2 Understanding
+5.3 Applying
+5.4 Analysing and evaluating
+5.5 Creating
+Amplification of these skills is given in SQA’s Skills Framework: Skills for Learning, Skills for
+Life and Skills for Work. The level of these skills will be appropriate to the level of the course.October 2018, version 3.0
+11
+Employability skills profile
+Employability skills covered in this course are detailed in the table below. For the purposes of
+the table, the units are referred to as A, B, C and D as indicated.
+Engineering Skills: Mechanical
+= A
+Engineering Skills: Electrical/Electronic
+= B
+Engineering Skills: Fabrication
+= C
+Engineering Skills: Manufacture and Assembly
+= D
+Employability skill/attitude
+Evidence
+ maintaining good time-keeping
+A, B
+ maintaining good attendance
+B, C
+ maintaining a tidy workplace
+A, C
+ following instructions
+A, D
+ seeking advice
+A, D
+ working co-operatively with others
+A, D
+ sourcing and use of tools in a correct and safe manner
+B, C
+ using tools solely for the purpose for which they are designed
+B, C
+ cleaning and storing tools correctly after use
+A, B
+ recognising common materials
+A, C
+ showing health and safety awareness
+A, B, C, D
+ wearing appropriate personal protective equipment
+A, C
+ preparing appropriately to carry out tasks
+C, D
+ following basic drawings and specifications
+B, D
+ checking own work
+A, B, C, D
+ identifying own strengths and weaknesses
+A, B, C, D
+ identifying learning points from practical experiences
+A, B, C, D
+ positive attitude to learning
+A, B, C, D
+Assessment evidence in all units:
+Performance evidence, supported by learner review sheets and assessor observation
+checklists.October 2018, version 3.0
+12
+Course support notes
+Course support notes are not mandatory; they provide advice and guidance on approaches
+to delivering and assessing the Skills for Work course. They are intended for teachers and
+lecturers who are delivering the course and its units.
+Guidance on approaches to delivery and assessment for this
+course
+The course has been designed to ensure that learners learn through practical experiences.
+The main focus in each of the skills specific units is on practical work. General vocational
+skills, such as selecting and maintaining tools and equipment, are integrated with practical
+engineering activities within the units.
+Health and safety is integral to all practical tasks and should be emphasised at the start of
+and throughout each lesson.
+Brief lessons on workshop protocol should also be included.
+Teaching and learning approaches will include demonstrations of practical work by tutors.
+Short lessons on specific aspects of industrial practice and the correct use of tools will prove
+invaluable at intervals throughout the learning experience. These may be followed by brief
+practical sessions in which the learners practise the skill emphasised by the demonstration.
+Given the practical nature of teaching/learning and assessment, centres should ensure that
+teaching blocks are of sufficient time to allow a meaningful experience for learners.
+Reflecting on practical experiences and learning from them is an approach that is embedded
+in the course. Throughout the learning experiences, the emphasis should be on helping
+learners to develop an awareness of the employability skills and attitudes needed for the
+engineering industry, for example, good time-keeping, co-operating with others, taking
+instructions, and a positive attitude to learning. Opportunities to develop these skills and
+attitudes arise naturally in the work of the course. Learners should be aware that these
+generic skills are just as important as the practical engineering skills they are developing.
+For example, it is important for workshop activities to be carried out to effective schedules;
+learners will have opportunities to demonstrate good time-keeping in the context of these
+schedules. Learners will have to co-operate with others regarding shared workspace, tools
+and equipment. They will have to co-operate and communicate regarding the transfer of
+materials, tools and equipment safely around and across the workshop. Learners will be
+encouraged to develop a positive attitude to waste minimisation and environmental issues
+regarding the use of materials.
+The work of the course will increase awareness that health and safety issues are important in
+the world of work generally and in engineering in particular.
+In carrying out engineering activities, learners will learn that there are correct and incorrect
+ways to use tools and equipment. Tutors will have ample opportunity to demonstrate good
+practice and correct procedures to learners, who will learn the importance to self and others
+of following instructions. Such positive experiences will foster a positive attitude to learning.October 2018, version 3.0
+13
+Teaching and learning approaches should impart enthusiasm and help to inform learners of
+realistic prospects in the engineering sector or in industry generally. They should become
+aware of steps to employment or further training. Through their experiences of the various
+practical skills in the course, they should become better equipped to make valid personal
+choices regarding careers and further study.
+Sequencing/integration of units
+The course has four mandatory units which offer a broad range of different engineering
+experiences. It is recommended that the unit Engineering Skills: Mechanical (National 4) is
+attempted and completed initially as some aspects of the content of this unit are incorporated
+in all of the other course units. The Engineering Skills: Manufacture and Assembly
+(National 4) unit should only be attempted after successful completion of the other three
+units.
+It is important that a well-planned induction to the course is delivered, emphasising its
+integrated nature and stressing the importance of generic employability skills throughout.
+Employability skills should span the course, allowing learners ample opportunity to develop
+and review employability skills and attitudes over a range of engineering skills and over a
+reasonable period of time.
+Guidance on approaches to delivery
+Throughout the course, the need for correct preparation for practical activities should be
+stressed. However, such preparation should not take excessive time to complete. Teaching
+correct skills practice, effective use of tools and equipment and a positive view of health and
+safety should help to ensure that preparation for practical work is comprehensive.
+Learners will require supervision during practical work — both on a skills level and for health
+and safety reasons. The learning environment should be designed to minimise risks and
+provide a safe context for carrying out tasks. For example, when undertaking the task of
+Metal Active Gas (MAG) welding learners should be made aware of the risk from fire, fumes
+and harmful rays to themselves and others.
+It is recommended that each practical session be preceded by a ‘tool box’ talk on an aspect
+of health and safety relevant to the work in hand. It is recommended that learners be given
+regular but short practice sessions in the correct use of the materials to be used in each
+session as well as coaching in the correct use of associated tools and equipment.
+Centres are encouraged to establish links with local industry. Local engineering companies,
+trades associations, Sector Skills Councils (SSCs), Institutes and Chambers of Commerce
+may be prepared to offer support, for example, in the form of visits from representatives of
+their organisations. Visitors from industry will be able to give learners a realistic view of jobs
+and conditions in the engineering industry.
+It may be possible for centres to arrange visits to engineering works as part of the learners’
+learning experience. Visits to local industry are often particularly useful because work in
+progress will be at different stages and learners can see various different trades working at
+the same time. Industrial visits should be carefully arranged, organised and authorised. It
+would be preferable for those responsible for such visits to have prior knowledge of the
+industry in question.October 2018, version 3.0
+14
+Guidance on approaches to assessment
+Approaches to assessment that promote the efficient and effective gathering of evidence are
+to be encouraged.
+The development and assessment of generic employability skills is a key feature of this
+course and is integrated with the skills specific units. Learners can readily gather evidence
+for assessment during their work in these practical skills units. Reviewing progress with
+engineering employability skills and attitudes will take place in the practical context of work in
+the different activities. Learners will complete a minimum of four review sheets in the different
+trade activities. Assessment of interpreting drawings and specifications and materials should
+also take place during the work in skills specific practical units. An employability skills profile
+for the course is included and this gives a clear indication of where assessment evidence is
+gathered for generic employability skills.
+Within the skills specific practical units, the learner will produce evidence as a natural part of
+the learning and teaching process. Learners will first learn and practise the correct
+techniques and methods for each of the skills they undertake. Assessment of the various
+practical tasks will take place at appropriate points throughout the course, allowing time for
+learners to make quality checks of their finished products against the prescribed tolerances,
+before being submitted for assessment.
+In the Engineering Skills: Manufacture and Assembly (National 4) unit learners can if
+appropriate work in teams of no more than three to manufacture and assemble an artefact. It
+is expected that the artefact produced by such a team will be of sufficient complexity and
+scope to allow all members of the team to make a contribution equal to the manufacture and
+assembly of an artefact by an individual learner. The artefact manufactured by a team can
+be, for example, a community-based project for the school, college or a youth group. Where
+this occurs, each learner must identify their contribution to the completion of the task and
+present evidence to satisfy the assessor that all outcomes and performance criteria have
+been met.
+Opportunities for e-assessment
+E-assessment may be appropriate for some assessments in this course. By e-assessment
+we mean assessment which is supported by Information and Communication Technology
+(ICT), such as e-testing or the use of e-portfolios or social software. Centres which wish to
+use e-assessment must ensure that the national standard is applied to all learner evidence
+and that conditions of assessment as specified in the evidence requirements are met,
+regardless of the mode of gathering evidence. The most up-to-date guidance on the use of
+e-assessment to support SQA’s qualifications is available at www.sqa.org.uk/e-assessment.
+Opportunities for developing Core Skills
+Opportunities to develop aspects of Core Skills should be used where they arise naturally.
+For example, in order to carry out engineering activities in a workshop environment, learners
+will develop aspects of Numeracy when making engineering calculations and taking
+measurements. They will also have to communicate simple engineering terms with tutors and
+fellow learners regarding skills practices, materials and tools, health and safety and working
+together in the workplace. Aspects of Problem Solving will arise through their participation in
+practical work.October 2018, version 3.0
+15
+Teaching and learning approaches should encourage learners to take responsibility for their
+own learning and development. In the practical units of the course, learners need to carry out
+quality checks on their own work. This provides a good opportunity to motivate learners to
+take pride in their work. The integration of employability skills, in particular self-evaluation
+skills, will allow learners to take responsibility for seeking feedback and identifying action
+points for improvement in their own performance. This should help to develop confidence in
+taking advice and in asking for direction and assistance where necessary.
+This course gives automatic certification of the Core Skill component Critical Thinking at
+SCQF level 4. October 2018, version 3.0
+16
+General information for learners
+The National 4 Skills for Work Engineering Skills course focuses on four broad areas of
+engineering — mechanical, electrical/electronic, fabrication and manufacture.
+You will learn the basic skills across these areas by the:
+ Interpretation of a drawing or specification.
+ Appropriate use of tools, materials and equipment.
+ Successful involvement in the completion of a task, product or assembly.
+ Quality checking of your own work.
+ Attention to health and safety aspects of working in a workshop type of environment.
+Integrated throughout the course is the development of generic employability skills valued by
+employers in an engineering sector. Your assessor will use checklists and you will complete
+a learner review sheet on four different occasions throughout the course.
+The National 4 Skills for Work Engineering Skills course provides a basis for progression into
+further education or for moving directly into training in employment within an engineering
+sector. October 2018, version 3.0
+17
+Administrative information
+Published:
+October 2018 (version 3.0)
+History of changes to national course specification
+Version Description of change
+Date
+2.0
+2013 — course re-coded as part of CfE development programme
+but no change to course and unit content.
+August 2013
+3.0
+Course specification moved to a new template. No change to
+content. Units re-coded to align with corresponding course 2
+code.
+October 2018
+This specification may be reproduced in whole or in part for educational purposes provided
+that no profit is derived from reproduction and that, if reproduced in part, the source is
+acknowledged. Additional copies of this course specification can be downloaded from SQA’s
+website at www.sqa.org.uk.
+Note: You are advised to check SQA’s website (www.sqa.org.uk) to ensure you are using
+the most up-to-date version of the course specification.
+© Scottish Qualifications Authority 2013, 2018
+National 4 Skills for Work
+Engineering Skills Course
+Specification
+(C243 74)
+Valid from August 2013
+This edition, October 2018, version 3.0
+This specification may be reproduced in whole or in part for educational purposes provided
+that no profit is derived from reproduction and that, if reproduced in part, the source is
+acknowledged. Additional copies of this course specification can be downloaded from SQA’s
+website: www.sqa.org.uk.
+Please refer to the note of changes at the end of this course specification for details of
+changes from previous version (where applicable).
+© Scottish Qualifications Authority 2013, 2018October 2018, version 3.0
+1
+Course outline
+Course title:
+National 4 Skills for Work Engineering Skills
+SCQF credit points:
+(24 SCQF credit points)
+Course code:
+C243 74
+Mandatory units
+The course comprises the following mandatory units:
+J16F 74
+Engineering Skills: Mechanical
+6 SCQF credit points
+J16G 74
+Engineering Skills: Electrical/Electronic
+6 SCQF credit points
+J145 74
+Engineering Skills: Fabrication
+6 SCQF credit points
+J144 74
+Engineering Skills: Manufacture and Assembly 6 SCQF credit points
+Recommended entry
+Entry to this course is at the discretion of the centre. However, learners would normally be
+expected to have attained the skills, knowledge and understanding required by the following
+or equivalent qualifications and/or experience:
+ an interest in engineering
+ an ability to work in numeracy and literacy at SCQF level 3
+ some aptitude for graphical forms of communication
+In terms of prior learning and experience, relevant experiences and outcomes may also
+provide an appropriate basis for doing this course.
+Progression
+This course or its components may provide progression to:
+ Scottish Progression Award in Engineering (National 5)
+ SVQs and Modern Apprenticeships in Engineering areas
+ further study, employment and/or trainingOctober 2018, version 3.0
+2
+Core Skills
+Achievement of this course gives automatic certification of the following Core Skills
+component:
+Core Skill component
+Critical Thinking at SCQF level 4
+There are also opportunities to develop aspects of Core Skills which are highlighted in the
+support notes of this unit specification.
+Links to National Occupational Standards
+National Occupational Standards (NOS) are developed by the key employment sectors of the
+United Kingdom. These standards set the competences required for job roles within a
+particular employment sector.
+The National 4 Skills for Work Engineering Skills course has been designed to link broadly to
+NOS, but the standards required of first-year apprentices in the engineering industry are
+significantly more onerous than those in this course.
+Compared to NOS, this course requires either reduced scale and complexity, or more
+achievable tolerances, and therefore provides a useful preparation for employment or further
+training in the engineering industry. The general tolerance required for the practical activities
+in this course should be ±3mm. The specific tolerances required for practical unit
+assessments are specified in the assessment support packs (ASPs).
+Further details are provided in the ‘Rationale’ section.
+Equality and inclusion
+This Course Arrangements Specification has been designed to ensure that there are no
+unnecessary barriers to learning or assessment. The individual needs of learners should be
+taken into account when planning learning experiences, selecting assessment methods or
+considering alternative evidence. Further advice can be found on our website
+www.sqa.org.uk/assessmentarrangements.October 2018, version 3.0
+3
+Common rationale for Skills for Work Courses
+Skills for Work Courses are designed to help learners to develop:
+ skills and knowledge in a broad vocational area
+ skills for learning, skills for life and skills for work
+ Core Skills
+ an understanding of the workplace
+ positive attitudes to learning
+ skills and attitudes for employability
+A key feature of these courses is the emphasis on experiential learning. This means learning
+through practical experience and learning by reflecting on experience.
+Learning through practical experience
+Teaching/learning programmes should include some or all of the following:
+ learning in real or simulated workplace settings
+ learning through role play activities in vocational contexts
+ carrying out case study work
+ planning and carrying out practical tasks and assignments
+Learning through reflecting at all stages of the experience
+Teaching/learning programmes should include some or all of the following:
+ preparing and planning for the experience
+ taking stock throughout the experience, reviewing and adapting as necessary
+ reflecting after the activity has been completed, evaluating and identifying learning points
+The Skills for Work Courses are also designed to provide learners with opportunities for
+developing Core Skills, and Skills for Learning, Skills for Life and Skills for Work with a focus
+on enhancing skills and attitudes for employability.October 2018, version 3.0
+4
+Core Skills
+The five Core Skills are:
+ Communication
+ Numeracy
+ Information and Communication Technology (ICT)
+ Problem Solving
+ Working with Others
+Employability
+The skills and attitudes for employability, including self-employment, are outlined below:
+ generic skills/attitudes valued by employers
+ understanding of the workplace and the employee's responsibilities, for example, time
+keeping, appearance, customer care, etc
+ self-evaluation skills
+ positive attitude to learning
+ flexible approaches to solving problems
+ adaptability and positive attitude to change
+ confidence to set goals, reflect and learn from experience
+ specific vocational skills/knowledge
+Course specifications highlight the links to NOS in the vocational area and identify
+progression opportunities.
+Opportunities for developing these skills and attitudes are highlighted in each of the course
+and unit specifications. These opportunities include giving young people direct access to
+workplace experiences or, through partnership arrangements, providing different learning
+environments and experiences which simulate aspects of the workplace. These experiences
+might include visits, visiting speakers, role play and other practical activities.
+A Curriculum for Excellence (Scottish Executive 2004) identifies aspirations for every young
+person. These are that they should become:
+ successful learners
+ confident individuals
+ responsible citizens
+ effective contributors
+The learning environments, the focus on experiential learning and the opportunities to
+develop employability, Skills for Learning, Skills for Life, Skills for Work and Core Skills in
+these courses contribute to meeting these aspirations.October 2018, version 3.0
+5
+Course rationale for National 4 Skills for Work
+Engineering Skills
+All new and revised National Courses reflect Curriculum for Excellence values, purposes and
+principles. They offer flexibility, provide more time for learning, more focus on skills and
+applying learning, and scope for personalisation and choice.
+In this course, and its component units, there will be an emphasis on skills development and
+the application of those skills. Assessment approaches will be proportionate, fit for purpose
+and will promote best practice, enabling learners to achieve the highest standards they can.
+This Skills for Work course is also designed to provide learners with opportunities for
+developing Core Skills and Skills for Learning, Skills for Life and Skills for Work, with a strong
+focus on enhancing skills and attitudes for employability.
+The National 4 Skills for Work Engineering Skills course has been designed to provide a
+basis for progression into further education or for moving directly into training in employment
+within an engineering sector. The overall purpose of the course is to ensure that learners
+start to develop the generic and practical skills, knowledge and understanding and
+employability skills needed within an engineering sector.
+The engineering sector includes the following:
+Mechanical
+Manufacture
+Maintenance
+Fabrication
+Welding
+Electrical
+Electronic
+Foundry
+Automotive
+Servicing
+Transport
+Aeronautical
+Communications
+Space
+Energy generation
+Conservation
+Marine
+Water
+Salination
+Oil/Gas
+Petroleum
+This course focuses on the four broad areas of mechanical, electrical/electronic, fabrication
+and manufacture. This will allow the learners to gain basic transferable skills which can be
+applied to any of the above engineering areas.
+Purposes and aims of the course
+The general aims of this course are to:
+ Widen participation in vocationally-related learning for school learners from S3 upwards.
+ Allow learners to experience vocationally-related learning.
+ Provide learners with a broad introduction to the engineering vocational sector.
+ Encourage learners to foster a good work ethic, including time-keeping, a positive attitude
+and other relevant employability skills.
+ Provide opportunities to develop a range of Core Skills in a vocational context.
+ Encourage learners to take charge of their own learning and development.
+ Provide a range of teaching, learning and assessment styles to motivate learners to
+achieve their full potential.
+ Facilitate progression to further education and/or training.
+ Encourage learners to plan their work and review their progress.
+ Encourage learners to develop a positive attitude to waste minimisation and
+environmental issues.October 2018, version 3.0
+6
+In particular, the aims of the National 4 Skills for Work Engineering Skills course are to:
+ Encourage learners to consider a career in the engineering industry.
+ Develop an awareness of the opportunities there may be within engineering in terms of
+the types and range of career options.
+ Enable learners to develop and apply practical, technical and communication skills as a
+foundation for future learning and progression.
+ Develop the learners’ awareness of their individual strengths and weaknesses in relation
+to the requirements of engineering, and to reflect on how this affects their employability
+potential.
+ Give learners the technical knowledge, skills and understanding associated with a range
+of skills in engineering at this level.
+ Encourage learners to apply their knowledge and understanding of engineering by using
+skills of evaluation and problem solving in a vocational context.
+ Develop an awareness that health and safety issues are integral to the world of work
+generally and engineering in particular.
+ Prepare learners for further learning opportunities, study and training for employment in
+engineering and related occupations.
+Information about typical learners who might do the course
+The primary target group for this course is school learners in S3 and above. This course is
+designed at a level and scope such that it can be delivered in schools, if the school has
+suitable facilities and teaching expertise.
+Due to the specialist expertise and facilities available in further education colleges and with
+training providers, it is anticipated that the course will rely on, and build on, existing
+partnerships between schools, further education colleges, training providers and employers,
+A partnership approach will enable the course to be delivered in a variety of appropriate
+learning environments enhancing the learning experience.
+The course is also suitable for adult learners who are seeking to enhance their employability
+and develop introductory vocational skills in an engineering sector.October 2018, version 3.0
+7
+Course structure and conditions of award
+Summary of course content
+This course comprises four 40-hour units. The content of the course focuses on the
+development of basic hand skills across the disciplines of mechanical, electrical/electronic,
+fabrication and manufacture and assembly. Central to the content are the generic
+employability skills valued by employers in an engineering sector. These skills are developed
+in each of the four units and are assessed at least twice during the course. These add value
+to the development of the specific vocational skills.
+All the engineering skills units, while focusing on specific skill areas, also address generic
+skills related to:
+ engineering communications
+ engineering materials
+ measurement and marking
+ working to tolerances
+ Core Skills
+The engineering skills units also include employability skills outlined below:
+ time-keeping and attendance
+ positive attitudes to learning
+ responding positively to advice and feedback
+ following instructions
+ working co-operatively with others
+ health and safety awareness
+ necessary preparation planning
+ checking own work
+ problem solving
+Summary of unit content
+Units are statements of standards for assessment and not programmes of learning and
+teaching. They can be delivered in a variety of ways; however Skills for Work units are
+designed to provide an experiential learning process.
+Engineering Skills: Mechanical (National 4)
+This unit is designed to be the first attempted on the course. Learners are required to select
+the correct tools and materials required to safely manufacture an artefact. During the
+manufacture, learners will read simple engineering drawings, measure and mark, select
+appropriate materials and work to specified tolerances. Embedded into the practical activities
+of this unit are the employability skills that employers value. Although it is envisaged that all
+employability skills will be developed in this unit, not all will be assessed.
+Engineering Skills: Electrical/Electronic (National 4)
+In this unit learners will select the correct tools and components required to construct a basic
+functional extra low voltage electrical/electronic circuit from a given diagram and
+specification. Embedded into the practical activities of this unit are the employability skills
+that employers value. Although it is envisaged that all employability skills will be developed in
+this unit, not all will be assessed.October 2018, version 3.0
+8
+Engineering Skills: Fabrication (National 4)
+In this unit learners will select the correct tools, materials and equipment required to
+manufacture an artefact using cutting, hot and cold forming and mechanical and thermal
+joining techniques. Embedded into the practical activities of this unit are the employability
+skills that employers value. Although it is envisaged that all employability skills will be
+developed in this unit, not all will be assessed.
+Engineering Skills: Manufacture and Assembly (National 4)
+This unit is designed to be attempted only after successful completion of the preceding skills
+units. Learners will select and safely use the correct tools and materials to manufacture,
+assemble and complete functionality tests on an artefact. Learners will evaluate and report
+their findings on the manufacture, assembly and functionality tests of the artefact. Embedded
+into the practical activities of this unit are the employability skills that employers value.
+Although it is envisaged that all employability skills will be developed in this unit, not all will
+be assessed.
+Conditions of award
+To achieve the award of National 4 Skills for Work Engineering Skills, learners must achieve
+all the required units as outlined in the course outline. They will be assessed pass/fail within
+centres. Skills for Work Courses are not graded. October 2018, version 3.0
+9
+Assessment
+Assessment objectives
+Assessment across the units in this course will primarily test practical skills but will also
+address the technical knowledge and understanding associated with those skills in
+engineering at National 4. In particular, assessment will focus on:
+ practical vocational skills
+ skills for employment in an engineering context
+Unit assessment
+In all of the units that focus on the development of specific engineering skills, assessment
+follows a similar pattern involving a range of practical activities which will produce evidence
+for all the outcomes. The evidence will be confirmed by the use of an assessor checklist,
+which will cover:
+ interpretation of a drawing or specification
+ the appropriate use of tools, materials and equipment
+ successful involvement in the completion of a task, product or assembly
+ quality checking of their work by the learner
+ attention to health and safety aspects of working in a workshop type of environment
+The assessment of employability skills is integrated in all of the units and is based on
+assessor checklists and the completion of a learner review sheet on four different occasions
+throughout the course. This review allows the learner to record development of employability
+skills in the context of different skill areas.
+Further details about unit assessment for this course can be found in the unit specifications
+and the ASP materials.
+Exemplification of possible assessment approaches for these units will be provided in the
+ASP.
+Quality assurance
+All instruments of assessment used within this course should be internally verified, using the
+appropriate policy within the centre and the guidelines set by SQA.
+External verification will be carried out by SQA to ensure that internal assessment is within
+the national guidelines for these qualifications.
+Further information on internal and external verification can be found in SQA’s Guide to
+Assessment (www.sqa.org.uk/GuideToAssessment).October 2018, version 3.0
+10
+Development of skills for learning, skills for life and
+skills for work
+It is expected that learners will develop broad, generic skills through this course. The skills
+that learners will be expected to improve on and develop through the course are based on
+SQA’s Skills Framework: Skills for Learning, Skills for Life and Skills for Work and drawn
+from the main skills areas listed below. These must be built into the course where there are
+appropriate opportunities.
+1
+Literacy
+1.1 Reading
+1.2 Writing
+1.3 Listening and talking
+3
+Health and Wellbeing
+3.1 Personal learning
+3.2 Emotional wellbeing
+3.4 Planning for, and making, choices and changes
+4
+Employability, enterprise and citizenship
+4.1 Employability
+4.3 Working with others
+4.4 Enterprise
+5
+Thinking Skills
+5.1 Remembering
+5.2 Understanding
+5.3 Applying
+5.4 Analysing and evaluating
+5.5 Creating
+Amplification of these skills is given in SQA’s Skills Framework: Skills for Learning, Skills for
+Life and Skills for Work. The level of these skills will be appropriate to the level of the course.October 2018, version 3.0
+11
+Employability skills profile
+Employability skills covered in this course are detailed in the table below. For the purposes of
+the table, the units are referred to as A, B, C and D as indicated.
+Engineering Skills: Mechanical
+= A
+Engineering Skills: Electrical/Electronic
+= B
+Engineering Skills: Fabrication
+= C
+Engineering Skills: Manufacture and Assembly
+= D
+Employability skill/attitude
+Evidence
+ maintaining good time-keeping
+A, B
+ maintaining good attendance
+B, C
+ maintaining a tidy workplace
+A, C
+ following instructions
+A, D
+ seeking advice
+A, D
+ working co-operatively with others
+A, D
+ sourcing and use of tools in a correct and safe manner
+B, C
+ using tools solely for the purpose for which they are designed
+B, C
+ cleaning and storing tools correctly after use
+A, B
+ recognising common materials
+A, C
+ showing health and safety awareness
+A, B, C, D
+ wearing appropriate personal protective equipment
+A, C
+ preparing appropriately to carry out tasks
+C, D
+ following basic drawings and specifications
+B, D
+ checking own work
+A, B, C, D
+ identifying own strengths and weaknesses
+A, B, C, D
+ identifying learning points from practical experiences
+A, B, C, D
+ positive attitude to learning
+A, B, C, D
+Assessment evidence in all units:
+Performance evidence, supported by learner review sheets and assessor observation
+checklists.October 2018, version 3.0
+12
+Course support notes
+Course support notes are not mandatory; they provide advice and guidance on approaches
+to delivering and assessing the Skills for Work course. They are intended for teachers and
+lecturers who are delivering the course and its units.
+Guidance on approaches to delivery and assessment for this
+course
+The course has been designed to ensure that learners learn through practical experiences.
+The main focus in each of the skills specific units is on practical work. General vocational
+skills, such as selecting and maintaining tools and equipment, are integrated with practical
+engineering activities within the units.
+Health and safety is integral to all practical tasks and should be emphasised at the start of
+and throughout each lesson.
+Brief lessons on workshop protocol should also be included.
+Teaching and learning approaches will include demonstrations of practical work by tutors.
+Short lessons on specific aspects of industrial practice and the correct use of tools will prove
+invaluable at intervals throughout the learning experience. These may be followed by brief
+practical sessions in which the learners practise the skill emphasised by the demonstration.
+Given the practical nature of teaching/learning and assessment, centres should ensure that
+teaching blocks are of sufficient time to allow a meaningful experience for learners.
+Reflecting on practical experiences and learning from them is an approach that is embedded
+in the course. Throughout the learning experiences, the emphasis should be on helping
+learners to develop an awareness of the employability skills and attitudes needed for the
+engineering industry, for example, good time-keeping, co-operating with others, taking
+instructions, and a positive attitude to learning. Opportunities to develop these skills and
+attitudes arise naturally in the work of the course. Learners should be aware that these
+generic skills are just as important as the practical engineering skills they are developing.
+For example, it is important for workshop activities to be carried out to effective schedules;
+learners will have opportunities to demonstrate good time-keeping in the context of these
+schedules. Learners will have to co-operate with others regarding shared workspace, tools
+and equipment. They will have to co-operate and communicate regarding the transfer of
+materials, tools and equipment safely around and across the workshop. Learners will be
+encouraged to develop a positive attitude to waste minimisation and environmental issues
+regarding the use of materials.
+The work of the course will increase awareness that health and safety issues are important in
+the world of work generally and in engineering in particular.
+In carrying out engineering activities, learners will learn that there are correct and incorrect
+ways to use tools and equipment. Tutors will have ample opportunity to demonstrate good
+practice and correct procedures to learners, who will learn the importance to self and others
+of following instructions. Such positive experiences will foster a positive attitude to learning.October 2018, version 3.0
+13
+Teaching and learning approaches should impart enthusiasm and help to inform learners of
+realistic prospects in the engineering sector or in industry generally. They should become
+aware of steps to employment or further training. Through their experiences of the various
+practical skills in the course, they should become better equipped to make valid personal
+choices regarding careers and further study.
+Sequencing/integration of units
+The course has four mandatory units which offer a broad range of different engineering
+experiences. It is recommended that the unit Engineering Skills: Mechanical (National 4) is
+attempted and completed initially as some aspects of the content of this unit are incorporated
+in all of the other course units. The Engineering Skills: Manufacture and Assembly
+(National 4) unit should only be attempted after successful completion of the other three
+units.
+It is important that a well-planned induction to the course is delivered, emphasising its
+integrated nature and stressing the importance of generic employability skills throughout.
+Employability skills should span the course, allowing learners ample opportunity to develop
+and review employability skills and attitudes over a range of engineering skills and over a
+reasonable period of time.
+Guidance on approaches to delivery
+Throughout the course, the need for correct preparation for practical activities should be
+stressed. However, such preparation should not take excessive time to complete. Teaching
+correct skills practice, effective use of tools and equipment and a positive view of health and
+safety should help to ensure that preparation for practical work is comprehensive.
+Learners will require supervision during practical work — both on a skills level and for health
+and safety reasons. The learning environment should be designed to minimise risks and
+provide a safe context for carrying out tasks. For example, when undertaking the task of
+Metal Active Gas (MAG) welding learners should be made aware of the risk from fire, fumes
+and harmful rays to themselves and others.
+It is recommended that each practical session be preceded by a ‘tool box’ talk on an aspect
+of health and safety relevant to the work in hand. It is recommended that learners be given
+regular but short practice sessions in the correct use of the materials to be used in each
+session as well as coaching in the correct use of associated tools and equipment.
+Centres are encouraged to establish links with local industry. Local engineering companies,
+trades associations, Sector Skills Councils (SSCs), Institutes and Chambers of Commerce
+may be prepared to offer support, for example, in the form of visits from representatives of
+their organisations. Visitors from industry will be able to give learners a realistic view of jobs
+and conditions in the engineering industry.
+It may be possible for centres to arrange visits to engineering works as part of the learners’
+learning experience. Visits to local industry are often particularly useful because work in
+progress will be at different stages and learners can see various different trades working at
+the same time. Industrial visits should be carefully arranged, organised and authorised. It
+would be preferable for those responsible for such visits to have prior knowledge of the
+industry in question.October 2018, version 3.0
+14
+Guidance on approaches to assessment
+Approaches to assessment that promote the efficient and effective gathering of evidence are
+to be encouraged.
+The development and assessment of generic employability skills is a key feature of this
+course and is integrated with the skills specific units. Learners can readily gather evidence
+for assessment during their work in these practical skills units. Reviewing progress with
+engineering employability skills and attitudes will take place in the practical context of work in
+the different activities. Learners will complete a minimum of four review sheets in the different
+trade activities. Assessment of interpreting drawings and specifications and materials should
+also take place during the work in skills specific practical units. An employability skills profile
+for the course is included and this gives a clear indication of where assessment evidence is
+gathered for generic employability skills.
+Within the skills specific practical units, the learner will produce evidence as a natural part of
+the learning and teaching process. Learners will first learn and practise the correct
+techniques and methods for each of the skills they undertake. Assessment of the various
+practical tasks will take place at appropriate points throughout the course, allowing time for
+learners to make quality checks of their finished products against the prescribed tolerances,
+before being submitted for assessment.
+In the Engineering Skills: Manufacture and Assembly (National 4) unit learners can if
+appropriate work in teams of no more than three to manufacture and assemble an artefact. It
+is expected that the artefact produced by such a team will be of sufficient complexity and
+scope to allow all members of the team to make a contribution equal to the manufacture and
+assembly of an artefact by an individual learner. The artefact manufactured by a team can
+be, for example, a community-based project for the school, college or a youth group. Where
+this occurs, each learner must identify their contribution to the completion of the task and
+present evidence to satisfy the assessor that all outcomes and performance criteria have
+been met.
+Opportunities for e-assessment
+E-assessment may be appropriate for some assessments in this course. By e-assessment
+we mean assessment which is supported by Information and Communication Technology
+(ICT), such as e-testing or the use of e-portfolios or social software. Centres which wish to
+use e-assessment must ensure that the national standard is applied to all learner evidence
+and that conditions of assessment as specified in the evidence requirements are met,
+regardless of the mode of gathering evidence. The most up-to-date guidance on the use of
+e-assessment to support SQA’s qualifications is available at www.sqa.org.uk/e-assessment.
+Opportunities for developing Core Skills
+Opportunities to develop aspects of Core Skills should be used where they arise naturally.
+For example, in order to carry out engineering activities in a workshop environment, learners
+will develop aspects of Numeracy when making engineering calculations and taking
+measurements. They will also have to communicate simple engineering terms with tutors and
+fellow learners regarding skills practices, materials and tools, health and safety and working
+together in the workplace. Aspects of Problem Solving will arise through their participation in
+practical work.October 2018, version 3.0
+15
+Teaching and learning approaches should encourage learners to take responsibility for their
+own learning and development. In the practical units of the course, learners need to carry out
+quality checks on their own work. This provides a good opportunity to motivate learners to
+take pride in their work. The integration of employability skills, in particular self-evaluation
+skills, will allow learners to take responsibility for seeking feedback and identifying action
+points for improvement in their own performance. This should help to develop confidence in
+taking advice and in asking for direction and assistance where necessary.
+This course gives automatic certification of the Core Skill component Critical Thinking at
+SCQF level 4. October 2018, version 3.0
+16
+General information for learners
+The National 4 Skills for Work Engineering Skills course focuses on four broad areas of
+engineering — mechanical, electrical/electronic, fabrication and manufacture.
+You will learn the basic skills across these areas by the:
+ Interpretation of a drawing or specification.
+ Appropriate use of tools, materials and equipment.
+ Successful involvement in the completion of a task, product or assembly.
+ Quality checking of your own work.
+ Attention to health and safety aspects of working in a workshop type of environment.
+Integrated throughout the course is the development of generic employability skills valued by
+employers in an engineering sector. Your assessor will use checklists and you will complete
+a learner review sheet on four different occasions throughout the course.
+The National 4 Skills for Work Engineering Skills course provides a basis for progression into
+further education or for moving directly into training in employment within an engineering
+sector. October 2018, version 3.0
+17
+Administrative information
+Published:
+October 2018 (version 3.0)
+History of changes to national course specification
+Version Description of change
+Date
+2.0
+2013 — course re-coded as part of CfE development programme
+but no change to course and unit content.
+August 2013
+3.0
+Course specification moved to a new template. No change to
+content. Units re-coded to align with corresponding course 2
+code.
+October 2018
+This specification may be reproduced in whole or in part for educational purposes provided
+that no profit is derived from reproduction and that, if reproduced in part, the source is
+acknowledged. Additional copies of this course specification can be downloaded from SQA’s
+website at www.sqa.org.uk.
+Note: You are advised to check SQA’s website (www.sqa.org.uk) to ensure you are using
+the most up-to-date version of the course specification.
+© Scottish Qualifications Authority 2013, 2018
+Introduction to Digital Question Papers
+for Centres
+Publication date: November 2021
+Publication code: FA4378b
+Published by the Scottish Qualifications Authority
+The Optima Building, 58 Robertson Street, Glasgow G2 8DQ
+Lowden, 24 Wester Shawfair, Dalkeith, EH22 1FD
+www.sqa.org.uk
+The information in this publication may be reproduced in support of SQA qualifications. If it is
+reproduced, SQA should be clearly acknowledged as the source. If it is to be used for any other
+purpose, written permission must be obtained from SQA. It must not be reproduced for trade or
+commercial purposes.
+© Scottish Qualifications AuthorityThis document can be produced, on request, in alternative formats, including large type, Braille
+and numerous community languages. For further details telephone SQA’s Customer Contact
+Centre on 0845 279 1000.
+SQA is committed to using plain English. We will try to make our publications as easy and
+straightforward to understand as we can, and will try to avoid all unnecessary jargon. If there’s
+any language in this document that you feel is hard to understand, or could be improved, please
+write to Editor, Editorial Team, at the Glasgow address or email: editor@sqa.org.uk.Contents
+What is a digital question paper?
+1
+Who can use a digital question paper?
+2
+What hardware and software do my centre need to use digital question papers?
+3
+How does my centre request digital question papers?
+4
+How does SQA create digital question papers?
+4
+How can candidates practise using digital question papers?
+5
+Where can I get further information on digital question papers?
+6What is a digital question paper?
+A digital question paper is a digitised version of the question paper that can be completed
+electronically using a PC, laptop, or tablet. Digital question papers are produced in Portable
+Document Format (PDF), an open standard file format compatible with many software
+applications, operating systems, and hardware platforms.
+Like physical question papers, digital question papers are either in the combined question and
+answer format or the question only format. The combined question and answer format digital
+question papers have answer spaces enabled within the file for completion. The question only
+format digital question papers have an associated digital answer booklet. Digital answer
+booklets are produced in PDF format and Microsoft Word format. Both formats have answer
+spaces enabled within the file for completion.
+Combined question and answer format digital question paper
+1Digital answer booklet in PDF format
+Who can use a digital question paper?
+Digital question papers can only be used by disabled candidates and those identified as having
+additional support needs who have an approved assessment arrangement. Digital question
+papers may be suitable for candidates who have difficulty reading the physical question paper
+or who have difficulty writing their responses on the physical question paper or answer booklet.
+Candidates use a PC, laptop, or tablet to access digital question papers. This enables them to
+adjust the colour of the paper and the text, and, to read and respond to questions, in conjunction
+with a range of other assistive technologies.
+Any candidates using information and communication technology (ICT) to complete their
+question papers can use a digital answer booklet. Digital answer booklets are available on our
+digital question papers website.
+Further information on assessment arrangements can be found on our assessment
+arrangements website.
+23
+What hardware and software do my centre need to use
+digital question papers?
+Hardware
+To use digital question papers your centre will require a PC or laptop or tablet. We recommend
+that PCs and laptops are running Windows. We recommend that tablets are iPads. Digital
+question papers must be printed at the end of the exam, so your centre will also require a
+printer.
+Chromebooks
+We asked CALL Scotland to investigate the use of Chromebooks for assessment arrangements,
+including digital question papers. CALL Scotland’s report, published in 2020, is available on the
+Chromebook section of the CALL Scotland website. The report highlights that currently, there is
+no satisfactory solution for accessing and using our digital question papers on a Chromebook.
+We are actively investigating this issue, but until we have a satisfactory solution, we do not
+advocate the use of Chromebooks to access and use our digital question papers for the 2022
+exam diet.
+Software
+To use digital question papers your centre will require an application that can read PDFs. The
+most widely used free application is Adobe Acrobat Reader, but many other free and paid-for
+applications are available.
+To use the Microsoft Word digital answer booklets your centre will require Microsoft Word or
+another application that can read Microsoft Word documents.
+Many assistive technology applications are available. Depending on the needs of your
+candidates, you may need to investigate which assistive technology applications you require.
+More detailed advice and guidance on hardware, software, and assistive technology can be
+found on the setting up and using digital exams section of the CALL Scotland website.4
+How does my centre request digital question papers?
+Digital question papers must be requested using the Assessment Arrangements Request (AAR)
+system. We issue access details and instructions for using the AAR system to your centre’s
+SQA Co-ordinator each year.
+Requests for digital question papers must be submitted by the date specified in our Delivering
+National Qualifications Key Dates document. This enables us to produce, collate, and distribute
+all digital question papers to all centres in time for the exam diet.
+How does SQA create digital question papers?
+We can only begin creating a digital question paper once the physical question paper has been
+through all its quality assurance stages and has been signed off as approved for the exam.
+Our skilled staff use specialist software to convert the physical question paper file into a digital
+question paper, adding bookmarks for sections, parts, and questions. For combined question
+and answer format digital question papers, they also create answer boxes and spaces where
+answer lines or spaces appear in the physical question paper.
+Our staff then check the digital question paper against the physical question paper and check
+that bookmarks are correct, and that answer boxes and spaces have been added correctly. We
+create two versions of question-and-answer format digital question papers. One has spell
+checking enabled and one has spell checking disabled.
+A similar process is used to create digital answer booklets. We create two versions of PDF
+digital answer booklets. One has spell checking enabled and one has spell checking disabled.
+We also create a Word digital answer booklet.
+We duplicate digital question paper files and associated digital answer booklet files on CD. We
+gather all the requests for digital question papers from all centres and collate, package, and
+distribute the digital question paper CDs to centres in advance of the exam diet.5
+How can candidates practise using digital question
+papers?
+Your candidates must
+ Practise using digital question papers, including under exam conditions, before they sit an
+exam during the exam diet using a digital question paper.
+ Be familiar with the PC, laptop or tablet they are using to access a digital question paper.
+ Be familiar with the software they are using to access a digital question paper, and any
+functionality within the software they are using.
+ Be familiar with any assistive technologies they are using with digital question papers.
+We make all our digital question papers available on our website after the exam diet. As with
+physical past question papers, these are available for five years. Our digital answer booklets are
+available on our website. As these contain no confidential question content, they are available
+permanently, although they may, on occasion, be updated. You can access past digital question
+papers and digital answer booklets on our digital question papers website. We recommend that
+your candidates practise using past digital question papers and digital answer booklets.
+You may wish to create your own digital question papers. Advice and guidance on this can be
+found on the making digital prelim papers section of the CALL Scotland website.Where can I get further information on digital question
+papers?
+SQA
+An Introduction to Digital Question Papers for Candidates and a Digital Question Papers Exam
+Guide for Centres are available. Our digital question papers website contains these guides, past
+digital question papers, digital answer booklets and other resources.
+Our Assessment Arrangements team manages the assessment arrangements request system
+and provides advice and guidance on assessment arrangements, including digital question
+papers.
+Phone: 0345 213 6890
+Email: aarequests@sqa.org.uk
+Web: http://www.sqa.org.uk/assessmentarrangements
+Our NQ Assessment team produces and distributes digital question papers.
+Phone: 0345 213 6807
+E-mail: question.papers@sqa.org.uk
+CALL Scotland
+We work in partnership with CALL Scotland (Communication, Access, Literacy and Learning) on
+developing and supporting digital question papers. CALL have a website dedicated to digital
+question papers, providing a wealth of advice and guidance to support you and your candidates
+in using digital question papers.
+CALL Scotland
+University of Edinburgh
+Moray House
+Paterson's Land
+Holyrood Road
+Edinburgh
+EH8 8AQ
+Phone: 0131 651 6235
+Email: webmaster@callscotland.org.uk
+Web: https://www.adapteddigitalexams.org.uk/home/
+67
+Assessment Arrangements
+Learner Agreement Form
+Details
+
+Learner’s name:
+
+Learner’s SCN:
+
+Subject(s):
+
+Requested assessment arrangements:
+
+ 
+
+ 
+
+ 
+
+As part of the process of requesting your assessment arrangements, we need to share the following information about you with SQA:
+
+¨ your name, SCN, date of birth, and the name of this centre (usually a school or college)
+
+¨ an indication of your disability or identified difficulty
+
+¨ details of the assessment arrangement(s) you need
+
+SQA will only use this information to process your request for assessment arrangements. This information is not shared with anyone outside of SQA, and is only kept for as long as it is needed to support your request.
+Learner’s agreement
+
+I confirm that I have been involved in discussions about and agree to the assessment arrangements being requested.
+
+Print name:
+
+Signature:
+
+Date:
+Parent or carer confirmation (if applicable)
+
+I confirm that I have been involved in discussions about the assessment arrangements requested for my child.
+
+Print name:
+
+Signature:
+
+Date:
+
+ 
+
+There’s more information about how SQA uses your information in their Privacy Statement https://www.sqa.org.uk/sqa/45397.html
+
+ 
+
+Unit assessment: class checklist
+
+ 
+
+ 
+
+xxxx xx ¾ name of Unit
+
+ 
+
+Class
+	
+
+ 
+	
+
+Group
+	
+
+ 
+
+ 
+
+ 
+	
+
+Candidate
+
+Surname
+	
+
+Candidate
+
+Forename
+	
+
+Candidate
+
+ID
+	
+
+Outcomes
+	
+
+Overall
+
+Achievement*
+
+1
+	
+
+2
+	
+
+3
+	
+
+4
+
+1
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+P           F
+
+2
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+P           F
+
+3
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+P           F
+
+4
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+P           F
+
+5
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+P           F
+
+6
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+P           F
+
+7
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+P           F
+
+8
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+P           F
+
+9
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+P           F
+
+10
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+P           F
+
+11
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+P           F
+
+12
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+P           F
+
+13
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+P           F
+
+14
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+P           F
+
+15
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+P           F
+
+16
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+P           F
+
+17
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+P           F
+
+18
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+P           F
+
+19
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+P           F
+
+20
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+P           F
+
+21
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+P           F
+
+22
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+P           F
+
+23
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+P           F
+
+24
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+P           F
+
+25
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+P           F
+
+ 
+
+* Mark as appropriate
+
+ 
+Assessment Exemplar for Higher National Units
+Guidance note: Introduction and How to Generate Evidence
+1 st edition: September 2008
+2 nd edition: January 2010
+Publication code: xxxx
+Published by the Scottish Qualifications Authority, The Optima Building, 58
+Robertson Street, Glasgow, G2 8DQ, and Ironmills Road, Dalkeith, Midlothian,
+EH22 1LE
+© Scottish Qualifications Authority 2008, 2010Guidance note: Introduction and How to Generate Evidence
+Scottish Qualifications Authority Assessment Exemplars for Higher National Units
+1
+1
+Introduction
+This pack must be used in conjunction with a copy of the Unit specification
+which details the standard of performance expected of the candidate. A copy of
+the Unit specification can be obtained from SQA.
+This pack supplements the assessment guidelines and support notes of the Unit
+specification. It aims to provide an example of assessment that is valid, reliable
+and practicable. The assessment task(s) detailed in this pack correspond to the
+assessment guidelines outlined in the Unit specification.
+Whilst the example provided is intended for guidance, it may also be used as an
+assessment instrument, as long as the centre ensures the integrity and
+confidentiality of the assessment in the first and subsequent years of use and
+between centres. It may be used in a variety of ways including, for example:
+as an assessment instrument, in whole or in part
+to exemplify the standard of performance expected of candidates
+achieving the Unit, ie as a benchmark
+to help you develop your own assessment for the Unit
+to help you develop valid and practicable assessments for other Units
+within the subject area of the Group Award to which it contributes
+to give you new ideas
+as a staff development tool
+It is important that you make sure that the assessment exemplar is used in a
+context appropriate to the delivery of the Unit and to the Group Award of which
+it forms a part. Although the content of this exemplar has been prior verified as
+a suitable instrument of assessment, you should note that using this
+assessment exemplar does not automatically guarantee successful external
+verification. It is still your responsibility to make sure that all the appropriate
+internal quality assurance procedures are satisfactorily completed. For
+example, a valid, effective and approved internal verification system must be in
+use at your centre.
+Recommended reading
+Before using this material you might find it useful to look at some of our other
+publications, in particular:
+Guide to Assessment
+Introduction to Assessment Arrangements for Schools and Colleges
+SQA’s Quality Framework: a guide for centresGuidance note: Introduction and How to Generate Evidence
+Scottish Qualifications Authority Assessment Exemplars for Higher National Units
+2
+Details of these and other SQA publications are available on our website. Most
+publications can be downloaded free of charge from our website at:
+www.sqa.org.uk on the ‘Publications, Sales and Downloads’ section. If you
+require a publication to be sent to you, please telephone our Business
+Development and Customer Support Team on 0303 333 0330 quoting the
+product code and, where a charge is applicable, have a purchase order number
+or credit card details available.
+Details of all HN assessment exemplars published after April 2004 are listed on
+our website on the HN subject-specific pages. Your centre’s SQA or HN
+Co-ordinator will have access to these HN assessment exemplars on SQA’s
+secure website. Please approach them for copies. However, if you require a
+paper copy you can obtain one from SQA’s Business Development and
+Customer Support Team, Scottish Qualifications Authority, The Optima
+Building, 58 Robertson Street, Glasgow, G2 8DQ (telephone: 0303 333 0330 or
+fax: 0845 213 5000).Guidance note: Introduction and How to Generate Evidence
+Scottish Qualifications Authority Assessment Exemplars for Higher National Units
+3
+2
+How to generate evidence
+Introduction
+The Scottish Qualifications Authority’s system of assessment measures the
+evidence of a candidate’s attainment of knowledge, understanding and skills
+against defined criteria. The assessment process must allow for evidence of
+each candidate’s performance to be generated and collected. This evidence
+must then be judged against the standards set out in the Unit specification. To
+achieve the Unit the candidate must successfully meet the standards and there
+must be evidence to prove this.
+The Unit specification defines the criteria you need to use to judge whether or
+not the candidate has met the standards. All Units have the following:
+Outcomes
+These tell you what the candidate actually has to do.
+Knowledge and/or skills
+This section details the essential knowledge and skills which the candidate must
+attain in order to achieve each Outcome, combination of Outcomes or for the
+Unit as a whole.
+Evidence Requirements
+Evidence Requirements can be written for each Outcome, for a combination of
+Outcomes, or for the Unit as a whole. There is no standard format for writing
+Evidence Requirements. Provided that they state clearly and unambiguously
+the type, standard and amount of evidence which candidates have to produce in
+order to be judged competent, the Evidence Requirements can be written in the
+format which will be most easily understood by users of the Unit.
+Note: The national standard of achievement expected, which was previously
+specified as Performance Criteria, is now stated in the Evidence Requirements.
+Where it is not possible to cover all the items listed under knowledge and/or
+skills through holistic assessment, sampling can be used as a method of
+gaining additional evidence. Sampling may also sometimes be an appropriate
+method of assessing very knowledge-based Units. This type of assessment
+must always be carried out in supervised conditions.
+Where sampling is used, the Evidence Requirements must clearly state:
+The standard of evidence required for each knowledge and/or skills item
+so that satisfactory performance can be judged whichever items are
+sampled on any one occasion.
+The proportion of knowledge and/or skills which can be sampled.Guidance note: Introduction and How to Generate Evidence
+Scottish Qualifications Authority Assessment Exemplars for Higher National Units
+4
+Whether any item(s) must be included in each assessment, ie if it is crucial
+to the achievement of the Outcome(s) or to an embedded Core Skill.
+The fact that a different sample should be chosen on each assessment
+occasion to prevent candidates being able to foresee what they will be
+asked.
+The conditions of assessment.
+Assessment guidelines
+This section should give guidance on how best to conduct the assessment to
+generate the evidence required, eg recommending the use of a particular
+assessment instrument. It should include guidance on how to integrate the
+assessment of the whole Outcome or, if appropriate, how to link assessment
+holistically with other Outcomes in the Unit. Like Evidence Requirements,
+assessment guidelines can be written for each Outcome, a combination of
+Outcomes, or for the Unit as a whole.
+It is important to realise that it is up to the assessor to judge when and if the
+candidate has satisfactorily met the standards. This decision should be based
+on the quality and correct quantity of evidence collected, set against the
+standards in the Unit.
+The assessment instrument in this pack should not create any unnecessary
+barriers to achievement for open/distance learning delivery and the additional
+support needs of individual candidates should be taken into account. You may
+need to adapt it so that you can assess candidates with additional support
+needs or candidates who are undertaking the Unit on an open/distance learning
+basis. However, whilst taking into account the needs of the candidate
+concerned, the methods of assessment you choose must still be valid, reliable
+and practicable. If you have any questions or problems, or if you are in any
+doubt as to whether or not the alternative assessment you have chosen is still
+valid, please telephone the Business Development and Customer Support
+Team at the Scottish Qualifications Authority on: 0303 333 0330.
+Core Skills
+The Unit specification will detail the Core Skills covered within the Unit. Where
+Core Skills have been embedded in a Unit specification and an assessor wishes
+to use an alternative method of assessment, she/he must ensure that the
+assessment generates the Evidence Requirements specified in the Unit
+specification. It is recommended that the centre seek prior verification for t
+Invigilator Report Form
+National Qualifications 2025
+All fields are mandatory and must be completed according to section 9 of the Handbook for
+Invigilators.
+You must ensure that details reported are factual and do not express any personal opinion.
+Centre name
+Centre code
+Full name of candidate involved
+(Use Appx 1 where you have multiple candidates)
+SCN of candidate
+involved
+Click on the grey box to populate an (x) next to the relevant field(s).
+Prohibited item (please state)
+_______________________
+☐ Please select Yes or No for the question below Yes
+☐
+Other possible malpractice
+☐
+Was the reminder given to the candidate(s) to
+undertake a final check to ensure they were not
+in possession of any prohibited items before
+the start of the exam?
+No
+☐
+Date of exam Start time
+Subject name
+Level
+Paper
+Subject
+code
+Issue with the content of the
+exam material
+☐
+Disruption
+☐
+Centre/Invigilator
+Oversight
+☐
+ICT/Technical Issue
+☐
+Invigilator Misconduct
+☐
+All other incidents or
+interruptions
+☐
+Start time of incident or interruption:
+End time of incident or interruption:What actions were taken?
+Was this an AA candidate?
+Yes
+☐
+No
+☐
+Were the correct Assessment Arrangements provided
+Yes
+☐
+No
+☐
+N/A
+☐
+Was the candidate provided with the full exam time entitlement?
+Yes
+☐
+No
+☐
+Full details of incident or interruption:I confirm that the above information is factually accurate and that a copy of the report has
+been passed to the head of centre or their delegate.
+Invigilator signature
+Chief Invigilator signature
+Date submitted
+to SQA
+Reports must be submitted by email within two days of the exam to invigilator.enquiries@sqa.org.uk
+A typed name is acceptable in place of a written signature.
+Reports must not be enclosed in the script return envelopes or poly-envelope.
+Where reports refer to any physical evidence - faulty QPs / faulty CDs / contaminated scripts - then
+please use the return envelope marked Faulty Question Papers/CDs/Contaminated Scripts
+and return with the completed report to SQA.
+For SQA use only
+Date Received
+Actioned By
+Date Added to Database
+Additional comments: Appendix 1 - Additional Candidates
+Full name of candidate
+SCN of candidate involved
+he
+
+Attendance Register Supplement
+
+(Visiting Examining Additional Candidates)
+
+This form is to be completed and given to the Visiting Assessor for those candidates whose names are not included on the appropriate pre-printed Ex6 Attendance Register and have been assessed for a practical component. An Attendance Register Supplement is to be completed for each course/level, up to a maximum of ten candidates per form.
+
+ 
+
+Centre making submission:
+
+ 
+
+Centre No Centre Name     Presenting Centre if different from above:
+
+Centre No Centre Name    
+
+ 
+
+Course Name  
+
+eg Drama Higher
+
+ 
+
+Course Code (eg X821)
+	
+
+National Course Level
+	
+
+National 5
+	
+
+Higher
+	
+
+Advanced Higher
+
+ 
+	
+
+Circle as appropriate
+	
+
+      75
+	
+
+76
+	
+
+            77
+
+ 
+
+ 
+	
+
+Candidate Name
+	
+
+Date of Birth
+	
+
+Scottish Candidate Number
+	
+
+Mark
+	
+
+Mark
+
+1
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+ 
+
+2
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+ 
+
+3
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+ 
+
+4
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+ 
+
+5
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+ 
+
+6
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+ 
+
+7
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+ 
+
+8
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+ 
+
+9
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+ 
+
+10
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+ 
+	
+
+ 
+
+ 
+
+1 Please ensure that this form is enclosed with the other candidates already on the Ex6 Attendance Register Form.
+
+2 Ensure the SQA Co-Ordinator has submitted the new entry or change of level to the SQA.
+
+ 
+
+Signature Designation Date   
+
+ 
+
+   For SQA use only
+
+Entry checked
+	
+
+ 
+	
+
+Processed
+	
+
+ 
+	
+
+Verified
+	
+
+ 
+
+Date
+	
+
+ 
+	
+
+Date
+	
+
+ 
+	
+
+Date
+	
+
+ 
+
+ 
+
+*VEARS01*
+
+
+	
+	
+	
+	
+		
+Allocation of Invigilation Duties – National Qualifications 2025 	
+	
+	
+	
+
+	
+	
+	
+
+	
+	
+	
+	
+	
+	
+
+	
+	
+	
+	
+	
+	
+Invigilator 	
+	Chief Invigilator 	
+	
+Contact number 	
+	Contact number 	
+	
+E-mail address 	
+	E-mail address 	
+	
+
+	
+	
+	
+	
+	
+	
+Please indicate dates you are unable to invigilate in the table below and submit the completed form to your Chief Invigilator. This form will be returned to you with your confirmed allocations. 
+Actual Day and Day Number  	Date 	Dates Not Available 	Extra Time 	Allocation
+(Chief Invigilator use only)
+AM 	PM 	
+	AM 	PM
+Training day 	
+	
+	
+	
+	
+	
+Day 1 	Friday 25 April 	
+	
+	
+	
+	
+
+	
+	
+	
+	
+	
+	
+Day 2 	Monday 28 April 	
+	
+	
+	
+	
+Day 3 	Tuesday 29 April 	
+	
+	
+	
+	
+Day 4 	Wednesay 30 April 	
+	
+	
+	
+	
+Day 5 	Thursday 01 May 	
+	
+	
+	
+	
+Day 6 	Friday 02 May 	
+	
+	
+	
+	
+
+	
+	
+	
+	
+	
+	
+No Exams Bank Holiday
+Day 7 	Tuesday 06 May 	
+	
+	
+	
+	
+Day 8 	Wednesday 07 May 	
+	
+	
+	
+	
+Day 9 	Thursday 08 May 	
+	
+	
+	
+	
+Day 10 	Friday 09 May 	
+	
+	
+	
+	
+
+	
+	
+	
+	
+	
+	
+Day 11 	Monday 12 May 	
+	
+	
+	
+	
+Day 12 	Tuesday 13 May 	
+	
+	
+	
+	
+Day 13 	Wednesday 14 May 	
+	
+	
+	
+	
+Day 14 	Thursday 15 May 	
+	
+	
+	
+	
+Day 15 	Friday 16 May 	
+	
+	
+	
+	
+
+	
+	
+	
+	
+	
+	
+Day 16 	Monday 19 May 	
+	
+	
+	
+	
+Day 17 	Tuesday 20 May 	
+	
+	
+	
+	
+Day 18 	Wednesday 21 May 	
+	
+	
+	
+	
+Day 19 	Thursday 22 May 	
+	
+	
+	
+	
+Day 20 	Friday 23 May 	
+	
+	
+	
+	
+
+	
+	
+	
+	
+	
+	
+Day 21 	Monday 26 May 	
+	
+	
+	
+	
+Day 22 	Tuesday 27 May 	
+	
+	
+	
+	
+Day 23 	Wednesday 28 May 	
+	
+	
+	
+	
+Day 24 	Thursday 29 May 	
+	
+	
+	
+	
+Day 25 	Friday 30 May 	
+	
+	
+	
+	
+
+	
+	
+	
+	
+	
+	
+No Exams Contingency Day
+1
+National Qualifications 2025
+Modern Languages
+National 5, Higher and Advanced Higher
+Gàidhlig
+National 5 and Higher
+English for Speakers of Other Languages
+National 5 and Higher
+Listening exam
+Instructions to person nominated to operate sound equipment
+This guidance relates to carrying out a check of the CD. If your centre has opted to receive
+electronic audio files you must refer to the guidance on Downloading and Securely Storing
+Electronic Files which will have been issued to the nominated people in your centre.
+1 Arrangements for the exam
+a) Recordings will be supplied on CD or electronically via SQA’s secure site.
+b) You should check the room(s) to be used for the examination and the sound equipment
+before the day of the examination.
+• The room(s) used for the examination should be sufficiently isolated from any other room
+in which an examination is being held so that other candidates will not be disturbed by
+the sound of the recording.
+• The sound equipment should be in satisfactory working order.
+• The sound equipment should be suited to the size of the room(s) used and/or to the
+number of candidates in a group.
+• The optimum number of candidates in each group, and the best position for the sound
+equipment so that all candidates can hear clearly, should be determined by practical
+experiment.
+c) You are required to conduct a check of the CD prior to the examination. You will be admitted
+to the examination room 30 minutes before the start of the exam.
+d) When you receive the CD from the invigilator, check to ensure that it states the correct
+subject, level, date and time of the exam.
+e) You should play a short section of the recording to check for any faults and to adjust
+volume and tone as necessary.
+f) No candidate is to be present or within earshot during the recording check or admitted to the
+room until the check has been completed.
+g) On completion of the check, inform the invigilator that the CD is working correctly and is
+ready to play. Remain in the examination room to operate the equipment for the
+examination. While you are in the examination room you must not communicate with the
+candidates.2
+2 Emergency procedure
+If there is an issue playing the CD, it must first be tried on another machine. If the CD proves
+faulty and unusable, you must tell the invigilator who will inform the SQA co-ordinator who will
+contact SQA. Follow any further instructions from the invigilator.
+3 Conduct of the exam
+a) Start playing the CD when the invigilator asks.
+b) The CD must be left to play through without interruption*. No part of the CD may be
+repeated, unless specifically authorised by the invigilator.
+c) In the event of an interruption which might seriously affect the candidates’ hearing of the
+recording the invigilator may ask you to pause the CD until the interruption has passed. The
+invigilator may ask you to take the recording back a few seconds or to the start of a section.
+Please note that if the CD is stopped, it will return to the first track. Therefore, it should be
+paused.
+d) When the CD has been played through, you should pass the CD to the invigilator and leave
+the room.
+*If candidates have been given an allowance of extra time, there may be a requirement to
+pause the CD. Please refer to the Sound Equipment Extra Time Operator’s Instructions for the
+relevant subject/level.
+
+	
+	
+	
+	
+	
+	
+
+
+alternative method to ensure that the Core Skill is still covered.
+
+ 
+
+
+
+
+
+
+On Tue, Mar 25, 2025 at 10:49 AM tshingombe fiston <tshingombefiston@gmail.com> wrote:
+
+    y Profile
+
+    Hi fiston.
+
+    Using the navigational panel on the left hand side, you can set up, review and update the information and preferences stored in our system. We would encourage you to regularly visit your candidate account to ensure that we have the most up to date information about you as we may contact you direct when vacancies that suit your skills and experience arise.
+
+    For your own privacy, when you have finished please ensure that you log off.
+    Overview of applications
+
+    Job Title 	Reference 	Stage
+    Product Maintenance Manager (M365)	6163	Application Started
+
+
+    My Inbox
+
+    Your inbox is empty
+    Contact Information
+
+        General Enquiries GRAPHIC: e-mail icon.
+        0345 279 1000
+
+    Vacancies
+
+        My profile
+        Access details
+        Personal details
+        Manage job alerts
+        History
+        Current vacancies
+        Withdraw application
+        Logoff
+            Home
+            Vacancies > 
+        From 	shared.service@sqa.org.uk
+        To 	tshingombefiston@gmail.com
+        Subject 	SQA Registration Confirmation
+
+        Hi,
+
+        Thank you taking the time to look around the Jobs at SQA website and registering with us.
+
+        To check the status of your applications, update your contact details, register for job alerts and withdraw or amend completed applications please do this by logging into the site.
+
+        - https://jobs.sqa.org.uk/home.html
+
+        - https://appointeeopportunities.sqa.org.uk/home.html
+
+        Don't worry if you forget your password: just follow the links on the website to request a password reset. If you need any more help, please do not hesitate to contact us.
+
+        Kind regards,
+
+        Scottish Qualifications Authority
+
+         
+
+
+
+    On Tue, Mar 25, 2025 at 10:41 AM tshingombe fiston <tshingombefiston@gmail.com> wrote:
+
+        The heart of Scotland's world-renowned education system. Offering globally recognised qualifications and services to realise your potential.
+
+            Past papers
+            Timetable
+            Your exams
+            Find NQ subjects
+
+            Skills for Work
+            HNCs and HNDs
+            SVQs
+            Lost your certificate?
+
+        Enter Qualification...
+        Search
+        Read our Prospectus for change
+        Become a marker
+        Latest research
+        News
+        View all
+        SQA rebalancing assessment for practical qualifications SQA appoints headteacher as Senior Advisor to strengthen support for Scotland's schools
+        SQA websites
+
+            Connect
+            Appointees
+            Secure
+            SOLAR
+            Academy
+
+        Modified past papers
+
+        Some of the 2022 and 2023 past papers are labelled 'modified'. This means SQA made changes to the question paper in response to the disruption caused by the Covid-19 pandemic, as part of our modifications to assessment in National Courses. For example, a modified past paper may be shorter, have fewer marks or contain fewer topics than past papers from previous years.
+        Specimen question papers
+
+        Specimen question papers are available for National 5, Higher and Advanced Higher qualifications. These show what a question paper looks like - how it is structured and the types of questions it contains. They also include marking instructions. Find them under 'Past Papers and Marking Instructions' on our NQ subject pages.
+        Digital question papers
+        Braille question papers
+
+
+        Conditions of use
+
+        The information in a past paper may be reproduced in support of SQA qualifications only on a non-commercial basis. If it is reproduced, SQA must be clearly acknowledged as the source. If it is to be reproduced for any other purpose, written permission must be obtained from permissions@sqa.org.uk
+
+        Where a past paper includes material for which SQA does not own the copyright, this material can only be reproduced on a non-commercial basis for the purposes of instruction in an educational establishment. If it is to be reproduced for any other purpose, it is the user's responsibility to obtain the necessary copyright clearance from the copyright owner. The acknowledgements page in a past paper list
+
+            Home
+            National Qualifications > Learner support > Timetable
+
+        Exam timetable and learner apps
+        Timetable 2025
+
+        2024-25 Exam Timetable (373 KB) updated 3 February 2025
+
+            Exams start on Friday 25 April.
+            They finish on Monday 2 June.
+            Results day is Tuesday 5 August.
+
+        Use the tabs below to open each section individually. Alternatively you can show all the sections.
+        Timetable changes
+
+        If you have any queries about the exam timetable, please speak to your school, college or training provider in the first instance.
+        Personal timetable builder
+
+        Create your own timetable using our online version.
+
+        Build your own online timetable
+        Exam apps
+
+        Our MyExams app has been updated with the timetable changes made on Monday 3 February.
+        Important for learners whose exams have changed
+
+            MyStudyPlan users: If you imported exams before the update, remove them in the Subjects window (tap the edit icon in the top right, then the red icon next to each exam). After that, re-import from MyExams to get the new dates.
+            Calendar users: If you exported exams to your calendar before the MyExams update, delete those entries and repeat the export again to ensure your dates are correct.
+            If you are still seeing old exam dates on the MyExams app, check the app troubleshooting section below.
+
+
+        MyExams
+
+            Download MyExams from the App Store.
+            Download MyExams for Android.
+
+        MyStudyPlan
+
+            Download MyStudyPlan from the App Store.
+            Download MyStudyPlan for Android.
+
+        s the owners of copyright items that are not owned by SQA.
+        ting
+        Related Information
+        Documents
+
+            Catalogue of National Qualifications (836 KB)
+            Setting the Grade - SQA's awarding procedure (1.47 MB)
+            NQ Annual Update (406 KB)  
+            Authenticating learners work good practice advice (123 KB)
+
+        Contact Information
+
+            Candidate Enquiries
+            General Enquiries
+
+            0345 279 1000
+
+            Centre Enquiries
+
+            0303 333 0330
+
+        External Web Links
+
+            Education Scotland
+            Scottish Credit and Qualifications Framework (SCQF)
+            How Scottish Universities aim to be fair
+
+        We created Your Exams to give you information and advice to help you prepare for your exams. It also tells you what you need to know for the day of your exams, including rules you need to read and understand.
+
+        Remember to prepare, stay calm and do your best.
+        What you need to know about exams in 2025
+
+            Exams start on Friday 25 April and end on Monday 2 June.
+            Your school provides an estimated grade for each course before the exams start.
+            An Examination Exceptional Circumstances Consideration Service is available if you cannot attend your exam, or your performance in the exam is disrupted.
+            Results day is Tuesday 5 August.
+            There is an appeals service that you can access directly or through your school.
+
+        Download Your Exams 2025
+
+        Your Exams - college edition (5.20 MB)
+
+        Na Deuchainnean Agad (5.07 MB)
+
+        Use the tabs below to open each section individually. Alternatively you can show all the sections.
+        Before your exams
+        Timetable
+
+            Download the exam timetable.
+            Double-check the times of your exams as schools can change the start times.
+            Make sure you know what exams you’re taking, when they are, and where they are.
+            Ask your school which teacher will be in charge of SQA exams on the day. You need to know so you can report to them if you are late.
+
+        Past papers
+
+            Practice with previous exam papers.
+            Use the marking instructions to check your answers.
+
+        SQA Apps
+
+            MyExams app - create a personal timetable, add notes, and add to other calendars.
+            MyStudyPlan app - organise your revision by creating a personal study plan.
+            Create your own personal exam timetable using the online Timetable Builder.
+
+        Info and download links
+        Your Scottish Candidate number
+
+        Your Scottish Candidate Number (SCN) is your personal identification number.
+
+            You need to write it on your exam answer booklets.
+            Your school can tell you what your SCN is.
+
+        Your teacher will give you an SCN card to write your name, school name, date of birth and SCN on. You can take this card into the exam room as long as you don’t write anything else on it.
+        Check your school has the right name and address
+
+        Has your address changed?
+
+        If any of your personal details change, or are going to change over the summer, you must tell your school before you finish for the summer holidays.
+
+        You can check the personal details we hold for you by logging in to MySQA.
+        On exam day
+        Arriving for your exam
+
+            Make sure you know when and where your exam is taking place
+            Give yourself plenty of time to get there
+            Have your SCN with you
+            Be outside the exam room 10 minutes before the exam starts
+
+        If you're late, the teacher in charge will tell you if you can sit the exam.
+        How to find your Scottish Candidate Number (SCN)
+
+        Speak to your school, call us on 0345 279 1000, or complete our Candidate Enquiry Form.
+        Supplies
+
+        Make sure you have the necessary exam supplies, such as pens.
+        In the exam room
+        Desks
+
+        If your school allocates a specific desk for exams, make sure you know what desk number is yours for each exam.
+        Prohibited items
+
+        You must not take any prohibited item to your seat. You're not allowed (unless an approved assessment arrangement is in place):
+
+            Mobile phones (even if it's switched off)
+            Electronic devices such as tablets, earbuds, smartwatches or any other device that stores information or can connect to the internet
+            Books, sketches or paper, and anything written on your clothes or body
+            Pencil cases or calculator cases
+            Calculators (except when allowed)
+            Dictionaries (except when allowed)
+            Notes
+
+        Check your bags and pockets to make sure you do not have any of these things with you - plan ahead and leave them in a safe place.
+
+        When specific items are allowed in an exam, you must make sure they meet SQA regulations.
+
+        You are not allowed to share any equipment during an exam.
+        Invigilators
+
+        Invigilators supervise the exam and make sure the rules are followed. Follow any instructions given by the invigilator and ask them for help if you feel unwell or upset.
+        Leaving the exam room
+
+        If you finish early or have done as much of the exam as you can, and you want to leave the exam room, raise your hand and ask the invigilator for permission to leave. If the exam is longer than one hour, the invigilator may allow you to leave after 30 minutes. If the exam is less than one hour, you must stay in the exam room until the end of the exam.
+
+        Before you leave, you must give the invigilator all your exam papers, including any answer booklets, extra sheets, question papers and data booklets. You could lose all marks for the paper concerned if you don’t give your exam papers to the invigilator before leaving the exam room.
+        Question papers and answer booklets
+
+            Read the instructions on the front of your question paper
+            Check the subject and level are correct
+            Fill in your details on the front page - including your name, school name and SCN
+
+        You will get either a :
+
+            combined question paper and answer booklet
+
+        or
+
+            separate question paper and answer booklet
+
+        Work through the question paper until you see the statement END OF QUESTION PAPER.
+
+        In a question paper, pages that don’t have any questions or instructions will say BLANK PAGE on them.
+
+        No page is completely blank. If you find a completely blank page before the END OF QUESTION PAPER statement, tell the invigilator.
+        Extra paper
+
+        If you need extra paper, raise your hand and ask the invigilator.
+
+        If you use extra paper, you must write your name, SCN and school name on each sheet and put these inside your answer booklet.
+
+        In some subjects, you will find extra pages or graph paper at the end of the answer booklet.
+        Writing your answers
+
+        You must use a pen with black or blue ink.
+
+        Do not use gel pens or pencils as these can fade.
+
+        It is important the markers can read your writing. They might not be able to award marks if your writing is difficult to read.
+
+        When writing on unlined pages, try to leave a space of about one centimetre between lines.
+
+        In some subjects, poor spelling and punctuation could also result in marks not being awarded. If you have any concerns about this, or about your handwriting, speak to your teacher.
+
+        Cross out any rough work, or any unwanted answers if you make more than one attempt at a question. You are not allowed to use correction pens, tape or fluid in any exam.
+        Remember
+
+            Take your time.
+            Read the question carefully.
+            Answer the question being asked.
+            Double check your answers if you finish early.
+            Stay calm and do your best.
+
+        Using calculators and dictionaries
+
+        You can only use calculators and dictionaries in specific subjects and levels.
+        When can you use a calculator?
+
+        You can use a calculator in the subjects listed below:
+        Subject 	Level 	Notes
+        Accounting 	All 	 
+        Applications of Mathematics* 	National 5 	Paper 2 only
+        Applications of Mathematics* 	Higher 	 
+        Gnìomhachas Matamataigs* 	Nàiseanta 5 	Pàipear 2 only
+        Gnìomhachas Matamataigs* 	Àrd-Ìre 	 
+        Biology 	All 	 
+        Business Management 	All 	 
+        Chemistry 	All 	 
+        Computing Science 	All 	 
+        Economics 	All 	 
+        Engineering Science 	All 	 
+        Environmental Science 	National 5 and Higher 	 
+        Geography 	Advanced Higher 	 
+        Cruinn-eòlas 	Àrd-Ìre Adhartach 	 
+        Graphic Communication 	All 	 
+        Human Biology 	Higher 	 
+        Mathematics* 	All 	Paper 2 only
+        Matamataig* 	All 	Pàipear 2 only
+        Mathematics of Mechanics 	Advanced Higher 	 
+        Physics 	All 	 
+        Practical Cookery 	National 5 	 
+        Practical Electronics 	National 5 	 
+        Practical Metalworking 	National 5 	 
+        Practical Woodworking 	National 5 	 
+        Statistics 	Advanced Higher 	 
+        Download
+
+        Some learners may be allowed to use a calculator in the non-calculator papers for Mathematics or Applications of Mathematics, or for Gaelic Medium Matamataig or Gnìomhachas Matamataigs as part of an assessment arrangement. The calculator must be a basic calculator and not a scientific calculator. A basic calculator should perform the four basic arithmetic operations only and should not have the function to calculate the square root of a number. Please note that calculators containing the following keys are allowed: %, +/-, M-, M+, and MRC.
+
+        Please speak to your teacher or lecturer if you have any questions about the type of calculator allowed.
+        When can you use a dictionary?
+
+        You can use a dictionary in the subjects and levels listed below:
+        Subject 	Level 	Notes
+        Cantonese 	National 5 	Reading and Writing
+        Cantonese 	Higher 	Reading and Directed Writing
+        Cantonese 	Advanced Higher 	Reading and Translation
+        Cantonese 	Advanced Higher 	Listening and Discursive Writing
+        French 	National 5 	Reading and Writing
+        French 	Higher 	Reading and Directed Writing
+        French 	Advanced Higher 	Reading and Translation
+        French 	Advanced Higher 	Listening and Discursive Writing
+        Gaelic (learners) 	National 5 	Reading and Writing
+        Gaelic (learners) 	Higher 	Reading and Directed Writing
+        Gaelic (learners) 	Advanced Higher 	Reading and Translation
+        Gaelic (learners) 	Advanced Higher 	Listening and Discursive Writing
+        German 	National 5 	Reading and Writing
+        German 	Higher 	Reading and Directed Writing
+        German 	Advanced Higher 	Reading and Translation
+        German 	Advanced Higher 	Listening and Discursive Writing
+        Italian 	National 5 	Reading and Writing
+        Italian 	Higher 	Reading and Directed Writing
+        Italian 	Advanced Higher 	Reading and Translation
+        Italian 	Advanced Higher 	Listening and Discursive Writing
+        Mandarin Simplified 	National 5 	Reading and Writing
+        Mandarin Simplified 	Higher 	Reading and Directed Writing
+        Mandarin Simplified 	Advanced Higher 	Reading and Translation
+        Mandarin Simplified 	Advanced Higher 	Listening and Discursive Writing
+        Mandarin Traditional 	National 5 	Reading and Writing
+        Mandarin Traditional 	Higher 	Reading and Directed Writing
+        Mandarin Traditional 	Advanced Higher 	Reading and Translation
+        Mandarin Traditional 	Advanced Higher 	Listening and Discursive Writing
+        Spanish 	National 5  	Reading and Writing
+        Spanish 	Higher 	Reading and Directed Writing
+        Spanish 	Advanced Higher 	Reading and Translation
+        Spanish 	Advanced Higher  	Listening and Discursive Writing 
+        Urdu 	National 5 	Reading and Writing
+        Urdu 	Higher 	Reading and Directed Writing
+        Download
+        Conduct
+
+        Everyone should have a fair chance to do their best during exams.
+
+        Cheating and causing a disturbance during an exam are unfair to other candidates. Examples of cheating and unfair behaviour include:
+
+            Having prohibited items with you
+            Pretending to be someone else or getting someone else to take an exam for you.
+            Disruptive behaviour in the exam room.
+            Using rude, abusive, offensive or discriminatory language or images in your answers.
+            Copying from another person.
+            Collusion - working with other candidates on an individual task that must be your own work.
+            Plagiarism - failing to reference sources properly or presenting someone else’s work as your own, which includes using artificial intelligence programmes such as ChatGPT to create responses.
+
+        Any cheating or unfair behaviour can have serious consequences for your results.
+
+        This could include losing marks, getting a lower grade or having your qualification cancelled. Your school can explain more about this.
+        Exam day checklist
+        Do
+
+            Do arrive in good time - at least 10 minutes before the exam starts.
+            Do bring the right equipment - including black or blue ink pens.
+            Do check that you don’t have any prohibited items with you at your seat.
+            Do check you have been given the correct exam paper.
+            Do put your name, SCN and the name of your school on every piece of work you hand in (including separate answer booklets and answer sheets).
+            Do write legibly so markers can read your answers.
+            Do read instructions and listen carefully for any announcements from the invigilator.
+            Do cross out any rough work that is not part of your answer.
+            Do stay in the room until the exam is finished. You can only leave early with permission from the invigilator.
+            Do give the invigilator all your exam papers, including any answer booklets, extra sheets, question papers and data booklets, before you leave the exam room.
+
+        Don't
+
+            Don’t get someone else to sit your exam for you or pretend to be someone else.
+            Don’t take any prohibited items to your seat.
+            Don’t behave in a disruptive way or cause a disturbance.
+            Don’t copy from anyone else.
+            Don’t share your work with anyone else.
+            Don’t share equipment with anyone else.
+            Don’t use any rude, abusive, offensive or discriminatory language or images in your answers.
+            Don’t use correction pens, tape or fluid.
+
+        After your exam
+        What if I couldn't sit the exam?
+
+        You or your parent or carer should contact your school as soon as possible, explaining what has happened.
+
+        They will be able to discuss your options and whether or not you would be entitled to use the Examination Exceptional Circumstances Consideration Service. If you are eligible for the service, your school would need to contact us.
+        Exam Exceptional Circumstances Consideration Service
+
+        This Service will support you if:
+
+            you have been unable to attend the exam, or prevented from completing the exam, due to a personal circumstance beyond your control (such as a medical issue)
+            you have been affected during the exam by a disruption, or other exam circumstance, reported by the chief invigilator
+            your performance in the exam was affected by a personal circumstance, or an unplanned incident on the day, which was beyond your control.
+
+        Exam nerves, distraction or loss of concentration during an exam are not valid reasons to use this service.
+
+        Your school must request the service for you within 10 days after the exam, so it’s important that you speak to them as soon as possible after the exam, giving them the information about what happened. You must give your school permission to request the service.
+
+        Your school will then need to provide alternative evidence based on the assessments you completed throughout the year. This could be prelims, class tests, class work, records of performances (in some subjects). SQA examiners will review this, and any exam materials that you completed, to decide your grade.
+
+        If you use the EECCS, the grade you are awarded may be different from the estimated grade provided by your school. You will not be able to appeal against your grade through the appeals service.
+
+        More on the exceptional circumstances service.
+        Results
+
+        You get your results by post on Tuesday 5 August.
+
+        You can also get your results by text, email or both if you sign up to MySQA
+
+        Your school will also receive your results.
+
+        If you have applied to a university or college through UCAS, they will also receive your results.
+
+        If you don’t receive your certificate on results day, contact your school immediately. They can tell you your results and will work with us to find out what has happened to your certificate.
+
+        If you think there’s a mistake on your certificate, or something looks wrong, contact your school.
+        MySQA - results by text/email
+
+        MySQA is where you can:
+
+            see your qualifications
+            check the personal details we hold for you
+            get your results sent by text, email or both
+
+        You’ll need to sign up at MySQA by 5pm on Wednesday 16 July (you need an email address and your SCN).
+
+        You will still receive your certificate by post.
+
+        Remember, if you change your mobile number or email after signing up, you’ll need to update your details to receive your text message or email.
+
+        On results day, if you cannot find yo
+
+        Download Your National Qualifications
+        College edition
+
+        Your National Qualifications (4.62 MB)
+        Gaelic edition
+
+        Your National Qualifications Gaelic (2.07 MB)
+
+         
+
+        Completing your coursework
+
+        There are rules you must follow when you are completing your coursework.
+
+        Use the tabs below to open each section individually. Alternatively you can show all the sections.
+        What types of coursework are there?
+
+        The type of coursework you will do depends on what subject you are studying.
+
+        These can be;
+
+            A portfolio
+            Practical activities
+            Performances
+            Assignments
+            Projects
+
+        Only hand in your own work
+
+        You must only submit your own work. Passing off other people’s work and ideas as your own is called ‘plagiarism’ and it’s cheating.
+
+        It’s not your own work if:
+
+            all or some of it has been done, or worked on, by someone else
+            it has been done by someone who has produced similar work in the past (such as an older student)
+            you use work that your teacher has prepared as an example
+            you’ve copied it from a source, such as a book, website or an essay bank, without trying to put it in your own words or referencing it
+            you’ve copied text, images or any other material produced by an AI tool.
+
+        Working with others
+
+        Unless you are working as part of a group (for example, on a group project), you must work alone to complete your coursework. If someone asks you for help, you should tell them to ask a teacher instead.
+
+        If you are finding any part of your course difficult, ask your teacher for advice. No other person can be involved, at any stage, in discussing or reviewing your coursework.
+        How to use sources
+
+        You may be able to use lots of different sources (including books, the internet and TV programmes) in your work, but it’s important that you reference them correctly.
+
+        When using sources, the general rules are;
+
+            Use ‘quotation marks’ around any text that has come from other sources and clearly say where that text is from.
+            Provide a reference for any diagrams or illustrations you’ve used from other sources.
+            Create a bibliography (a list of sources you have used). This will go at the end of your work.
+
+        Your teacher will be able to help if you get stuck.
+        Can I use Artificial Intelligence (AI)?
+
+        No. You might have heard about or used artificial intelligence (AI) tools such as ChatGPT or Google Bard. Many of these AI tools have age restrictions, which means they are not suitable for everyone. The text they produce can be incorrect or contain biased information. As the information is not reliable, you must not use or reference AI tools as sources for your work.
+
+        Find out more about our policy on AI in assessments.
+        What if I break the rules?
+
+        If an investigation finds you’ve broken any rules, there may be a penalty, which could include the following.
+
+            Your marks can be reduced, or you can be awarded zero marks.
+            Your qualification for that subject can be cancelled.
+            All of your qualifications for the e
+                Home
+                National Qualifications > Learner support > Private candidates
+            Information for private candidates (home-schooled)
+
+            Private candidates include home-schooled learners ­who are taught by a parent, carer, or tutor.
+
+            If you are a private candidate and you wish to take SQA qualifications, you need to be entered for the qualifications by an SQA approved centre (such as a school, college, or training provider) that will act as your presenting centre.
+            What does a presenting centre do?
+
+            Your presenting centre will register you for your chosen qualifications and arrange for you to complete the required assessments, including any exams or coursework. They are also responsible for making sure that you complete your assessments under the conditions required by SQA – for example, under direct supervision or completing the assessment within a time limit.
+            How do I find a presenting centre?
+
+            You can contact your local schools, colleges and training providers and ask if they can act as your presenting centre. You can also approach your local authority education department. We strongly advise doing this as early as possible before the start of the academic year.
+
+            When you contact a centre, make sure you provide them with details of the qualifications you are looking to be entered for, including your chosen subjects. The centre will advise if they are able to enter you for those qualifications.
+
+            The centre may also arrange a discussion with you to find out more and to explain what’s involved.
+            Is there anything I need to discuss with the centre?
+
+            At an early stage, you should ask the centre about the assessments you will need to complete for your chosen qualifications. They will advise you what coursework and/or exams you will need to do and when these will take place.
+
+            If you are disabled and/or have additional support needs, you should also discuss these with the centre as soon as possible, so that they can agree appropriate assessment arrangements with you and ensure they are put in place.
+            If they agree to act as my presenting centre, what happens next?
+
+            Once a centre has agreed to present you as a private candidate, they will ensure that you are registered with SQA and have a Scottish Candidate Number (SCN). The centre will enter you for your chosen qualifications and provide you with all the information you need to know about your assessments – including coursework, any tests or internal assessments that take place throughout the year, and details of any exams you will be sitting.
+
+            They will also explain the rules and essential information you need to know about your coursework and assessments. It is important that you understand
+            ntire year can be cancelled.
+
+            Home
+            National Qualifications > NQ teaching support > Teaching support
+
+        Teaching resources
+
+        Support and resources for delivery of National Qualifications including internal assessment materials, exam support and contact details.
+        Internal Assessment Support Materials
+
+        Download Internal Assessment Support Materials.
+        Exam support and forms
+
+        Forms and supplementary materials for the exam diet, including the scaling calculator, flyleafs and change requests.
+
+            Home
+            Qualifications > Assessment Support Materials
+
+        Internal Assessment Support Materials
+        NQ — UAS
+        February 2025 monthly update
+        NQ — UAS support materials full list
+
+        For every National Unit, we have published a corresponding Unit assessment support pack that shows a Unit-by-Unit approach to assessment, a few subjects such as Maths and Literacy have more than one of these. For National Courses, we have also published Unit assessment support packs that show combined and portfolio approaches.
+
+        Please note that Unit assessment support packs will be updated during the session and, as such, we advise that you use the most up-to-date versions with your candidates. Details of updates to Unit assessment support packs and other documents can be found in our Notification of Changes spreadsheets.
+
+            Unit Assessment Support Publication List currently being revised - to be added here soon
+
+        HN — ASP
+        February 2025 monthly update
+
+        The following Assessment Exemplar/Assessment Support Pack materials have been added, replaced or revised in February 2025. To access these materials via our secure website, please speak to the SQA co-ordinator in your centre.
+        Social Sciences
+        Level 	Title 	Publication Code 	New/Revised
+        6 	Social Anthropology: Who does it and how to do it 	HG55 33/ASP001 	
+
+        New
+        Download
+        Travel and Tourism
+        Level 	Title 	Publication Code 	New/Revised
+        7 	Working as Senior Air Cabin Crew 	J7LJ 34/ASP001 	
+
+        New
+        Download
+        HN ASP full list
+        NQ — NAB/ASP
+        February 2025 monthly update
+
+        The following Assessment Exemplar/Assessment Support Pack materials have been added, replaced or revised in February 2025. To access these materials via our secure website, please speak to the SQA co-ordinator in your centre.
+        Built Environment
+        Level 	Title 	Publication Code 	New/Revised
+        6 	Health and Safety in the Construction Industry 	H669 46/ASP001 	
+
+        Revised
+        Download
+        Computing IT and Related Areas
+        Level 	Title 	Publication Code 	New/Revised
+        6 	Digital Media: Still Images, Digital Media Audio and Digital Media: Moving Images 	HW4X 46, HW4W 46 and HW4Y 46/ASP001 	
+
+        Revised
+        Download
+        English
+        Level 	Title 	Publication Code 	New/Revised
+        5 	Introduction to Literature 	J4G8 45/ASP001 	
+
+        Revised
+        6 	Literature 1 	FA58 12/ASP001 	Revised
+        Download
+        NAB, ASP, PBNC and Skills for Work full lists
+        HN/NQ Centre Devised Prior Verified Assessments
+        Centre Devised Prior Verified Assessments full list
+
+        The following document lists all HN and NQ centre devised assessments currently available. To access these materials via our secure website, please speak to the SQA co-ordinator in your centre.
+
+            Centre Devised PV Publication List (119 KB)
+
+        SVQ — Assessor's Guidelines/Portfolio
+        February 2025 monthly update
+
+        There were no SVQ - Assessor's Guidelines/Portfolio materials added, replaced or revised in February 2025.
+        SVQ support materials full list
+        Training and Assessment Packs
+        February 2025 monthly update
+
+        There were no Training and Assessment Packs Assessor's Guidelines/Portfolio materials added, replaced or revised in February 2025.
+        TAPS support materials full list
+        Digital Assessment Support Materials
+        SOLAR Assessments
+
+        A list of subjects with Digital Assessment Support Materials provided by SOLAR.
+        HN Guidance Notes and Blank Checklists
+
+        These documents should be used in conjunction with Assessment Exemplars downloaded from the secure website.
+
+            Guidance Note: Introduction and How to Generate Evidence (70 KB)
+            Blank Class Checklist: Four Outcomes (57 KB)
+            Blank Class Checklist: Three Outcomes (54 KB)
+            Blank Class Checklist: Two Outcomes (54 KB)
+                Home
+                National Qualifications > NQ teaching support > Exam support and forms > Exam support
+            Exam support and forms
+            Forms and materials support during the exams:
+            Accommodation arrangements
+                Accommodation arrangements (124 KB)
+            Allocation of duties
+                Allocation of duties (355 KB)
+            Attendance register
+                VE Attendance register supplement (additional candidates) (51 KB)
+                Attendance register supplement (notes) (49 KB)
+            Flyleafs
+                2025 Exam Flyleafs
+            Invigilator
+                Invigilator Report Form (266 KB)
+            Sound equipment - music and languages
+                Languages Sound Equipment Operator's Instructions (131 KB)
+                Music and Music Technology Sound Equipment Operator's Instructions (129 KB)
+            Scaling calculator
+
+            The scaling calculator can be used as an aid to calculate the total mark for National 5, Higher or Advanced Higher courses that have scaled components.
+                Scaling calculator 2025 (110 KB) 
+
+
+        Estimates
+
+        Guidance for practitioners explaining what estimates are, with examples of assessment evidence needed.
+        Liaison team
+
+        The Liaison team provide support and advice to every school and college.
+        SQA Connect
+
+        Access services that provide delivery and operational support for our qualifications
+
+        ur results email in your inbox, please check your spam or junk folder.
+
+
+        Developing learners' skills through National Qualifications, Core Skills and Awards
+
+        It is important that learners develop a broad set of skills alongside their subject-based studies.
+        Core Skills
+
+        A group of five skills key to learning and working in today's world.
+        NQ Core Skills
+
+        Core Skills are automatically certificated in some National Courses
+        SQA Awards
+
+        Practice-based qualifications providing skills and recognition for a range of learners.
+        Literacy and Numeracy
+
+        National literacy and numeracy units have a specific focus on developing literacy and numeracy skills.
+        National Certificates
+
+        Aimed at 16-18 year olds they develop transferable knowledge including Core Skills.
+        QA Awards
+
+        SQA Awards are practice-based work qualifications for specific sectors, providing skills and recognition for a diverse range of learners.
+
+            British Sign Language
+            Counselling / Advice /Crisis work
+            Customer Service
+            Cyber Security Fundamentals
+            Education / Training / Teaching
+            Employability
+            First Aid
+            Fix and Secure Memorial Masonry
+            Forestry / Timber production
+            Health / Social care / Caring 
+
+            Health and Safety in a Construction Environment
+            Hospitality / Catering
+            Internet Safety
+            Languages / Cultural Studies
+            Personal Finance
+            Personal and Social Development
+            Principles and Practice of the Cremation Process
+            Religion, Belief and Values
+            Sports Coaching
+            Wellbeing 
+
+        NQ Statistics Award at SCQF level 6
+
+            Deliver qualifications
+            Past papers
+            About SQA
+            Contact us
+
+            Deliver qualifications home
+
+            Quality assurance
+
+            Case studies
+
+            Customer support team
+
+            Consultancy services
+
+            Home
+            Deliver qualifications > Become a centre
+
+        Become a centre - offer your first SQA qualification
+
+        To offer SQA qualifications you must first become an approved SQA centre. This ensures each organisation delivering SQA qualifications has the right set-up and meets quality standards to deliver for learners.
+
+        Below you will find more information about the approval process.
+
+        Our dedicated team are here to support you and your organisation through the process. You'll be assigned a point of contact who will answer any questions you may have and keep you up to date on the progress of your application.
+        Why choose SQA?
+
+        We offer internationally recognised qualifications and services at affordable prices with solutions that are right for you.
+        About us
+
+            100 years' experience in qualification design
+            an awarding body with a global reputation for quality
+            national accreditation and awarding body (Ofqual recognised)
+            experts in assessment
+
+        Internationally recognised qualifications
+
+        We offer a portfolio of regulated, non-regulated and bespoke qualifications and assessments that are relevant and flexible, embedding and instilling industry standards in over 30 sectors.
+        Named Account Manager
+
+        All SQA Approved centres are assigned their own Account Manager - a personal contact who will take time to learn about you and your business.
+        Expert customer support team
+
+        In addition to your named contact, you’ll have the help and support of our experienced customer team ready to take your calls.
+        Value for money
+
+        You’ll benefit from our simple pricing structure; there are no annual fees and we don't charge for External Verifier visits. We operate on a 'pay-as-you-go' basis with no minimum spend.
+        Trusted subject experts
+
+        All of our External Verifiers are subject specialists guaranteeing the highest standards of quality assurance through an in-depth knowledge of your sector.
+        Read our case studies
+
+        We have a growing selection of case studies from our customers to help you decide if working with SQA is right for you.
+        Approval application process
+        Contact us
+
+        Complete the enquiry form.
+        Pre-application stage
+
+        We’ll meet with you to discuss becoming an SQA Centre, including if it’s right for your organisation.
+
+        If you would still like to apply after that, we’ll then send further information and carry out due diligence, including a soft finance check.
+        Application stage
+
+        Next, we send you the relevant documents and forms to apply for the two parts of approval:
+
+            Systems approval – this confirms that your centre has management and systems needed to deliver, assess and internally verify SQA qualifications.
+            Qualification approval – this confirms that your centre has the materials and resources to deliver, assess and internally verify SQA qualifications.
+
+        Application review stage
+
+        We’ll review your application. This includes:
+
+            a centre approval meeting by a Quality Enhancement Manager and
+            a subject approval meeting by a subject expert External verifier.
+
+        After review, the Quality Enhancement Manager and External Verifier will submit a report and communicate any feedback and recommendations to you.
+        Outcome - centre approval
+
+        There are two possible outcomes: ‘approved’ or ‘not yet approved’.
+
+            Approved - We’ll provide a centre operating agreement (COA), which you must sign and return to SQA. We then issue your centre number, and you can start registering candidates.
+
+            Not yet approved - We’ll offer to help you re-apply.
+                Home
+                Past Papers
+            Past papers and marking instructions
+
+            Find past papers and marking instructions for your revision. You can search by topic and or refine by subject and level. To add the matching marking instructions simply tick the box.
+
+            We provide up to five years of past papers.
+            Subject:
+            Search: Level: Include Marking Instructions
+            Modified past papers
+
+            Some of the 2022 and 2023 past papers are labelled 'modified'. This means SQA made changes to the question paper in response to the disruption caused by the Covid-19 pandemic, as part of our modifications to assessment in National Courses. For example, a modified past paper may be shorter, have fewer marks or contain fewer topics than past papers from previous years.
+            Specimen question papers
+
+            Specimen question papers are available for National 5, Higher and Advanced Higher qualifications. These show what a question paper looks like - how it is structured and the types of questions it contains. They also include marking instructions. Find them under 'Past Papers and Marking Instructions' on our NQ subject pages.
+            Digital question papers
+
+            Question Papers in Digital Format for candidates with disabilities and/or additional support needs.
+                Digital Question Papers
+            Braille question papers
+                Braille question papers
+
+            Home
+            About SQA
+
+        About us
+
+        We provide products and services in skills, training and education which positively impact on individuals, organisations and society.
+        What we do
+
+        We have two main roles: accreditation, and awarding qualifications.
+        Who we are
+
+        Our organisational and leadership structure.
+        Statistics
+
+        Find Attainment, Grade boundaries and component marks for National Qualifications.
+        SQA careers
+
+        Find out about working at SQA, available jobs and how to apply.
+        Prospectus for Change - Corporate Plan
+
+        See our ambitious blueprint for Scotland's new qualifications body.
+        Access to information
+
+        How to request your personal information or get information about SQA
+
+            Home
+            About SQA > Research > SQA research
+
+        SQA research
+
+        Our Policy, Analysis and Standards team is responsible for commissioning, carrying out and collating research to inform and support all aspects of SQA’s activities.
+        Rebalancing assessment research
+
+        The balance of approaches to assessment across National Qualifications.
+        Education reform
+
+        Our research contributing to the review and changes happening in education in Scotland.
+        2023 Awarding
+
+        Learners and practitioners research on 2023 awarding of National 5, Higher and Advanced Highers.
+        Find SQA research
+
+        Evaluations, reports and research which informs and supports our work.
+        Generative AI Research
+
+        Analysis of the Generative AI Consultation Survey conducted in November 2023.
+        NextGen: HN Evaluation Research
+
+        Research reports on suitability of NextGen: HN design principles.
+        Assessment Arrangements research findings
+
+        Our research into how our assessment arrangements service works.
+        Have your say
+
+        We're looking for learners, parents and carers, and educators to take part in surveys and other research.
+        Code of Research Practice
+
+        The core principles for SQA research; ensuring it is useful, reliable, ethical, equitable and sustainable.
+        Key audience research
+
+        The views of key audience groups about SQA and its qualifications.
+        SQA careers
+
+        The Scottish Qualifications Authority (SQA) is the national accreditation and awarding body in Scotland. This means we develop, design, quality assure, certificate and regulate the delivery of qualifications in Scotland.
+        Where we are
+
+        We operate over two sites in Scotland — Dalkeith and Glasgow. We also have colleagues based across the UK and internationally.
+        Our values
+
+        Our people are committed to supporting learners and education providers, whilst supporting the Scottish education system. We have a variety of roles in the business that support this activity. We look for talented individuals who share our values:
+
+            Trusted
+            Progressive
+            Enabling
+
+        Vacancies
+
+        Find out what opportunities are available for working at SQA.
+        Appointee opportunities
+
+        Provide vital support for SQA by joining us as an appointee. View the opportunities available.
+        Benefits
+
+        Annual leave, financial and pensions benefits.
+        Working for us
+
+        We promote and support equalities, staff development and support our community.
+
+        The information that you have provided to SQA will be used to process your application as well as for monitoring and statistical purposes. If you are appointed this information will form part of your employee/appointee/consultant record. Further information about how SQA uses your information can be found in SQA's Privacy Statement.
+
+
+        On Mon, Mar 24, 2025 at 3:20 PM tshingombe fiston <tshingombefiston@gmail.com> wrote:
+
+            SQA Academy
+            Search tags
+            Search tags
+
+                2012
+                2013
+                2014
+                2015
+                2016
+                2016/2017
+                2017
+                2017 - Awarding Procedures
+                2017 - Item Analysis
+                2017 - Script Scrutiny
+                2017 - Statistical Information
+                2018
+                Accessibility
+                Administrator
+                Appointee Handbook
+                Appointee Management
+                Appointees
+                assessment
+                Awarding Meetings
+                Business World
+                Candidate Advice Line
+                Candidate performance statistics
+                Care
+                Career development
+                CfE
+                Changes in Legislation
+                Children and Young People
+                Cohort Information
+                Commentaries
+                component
+                computer
+                Continuing Professional Development
+                Course Assessment
+                CPD
+                CSS
+                Differentiation
+                Digital
+                Diversity
+                e-Marking
+                Education
+                eLearning
+                Electronic Images
+                English Reading
+                eQuality
+                Equality Act (2010)
+                ESOL
+                EV
+                EVC
+                EVs
+                Exception
+                Exceptions table
+                External Verification
+                External Verifier
+                External Verifiers
+                Familiarisation
+                faq
+                Forum
+                glossary
+                Guide MFI Standardisation Setup
+                Handbook
+                Harassment
+                HealthCare
+                HNC Childhood Practice
+                HNC Social Services
+                holistic judgement
+                HTML
+                Image
+                Induction
+                Installation
+                Internal Assessment
+                Internal Verifiers
+                Introduction
+                Invigilation
+                Item Validation Trial
+                IVT
+                JavaScript
+                Key Stage
+                Key stage 1
+                Key Stage 2
+                KS1
+                KS2
+                Lecturers
+                Level
+                line manager
+                Log in
+                Maintenance
+                Management
+                marking
+                marking guidance
+                Marking Instructions
+                marking procedures
+                Materials
+                Mathematics
+                mental Health
+                Meta-skills
+                MFI
+                MFP
+                MOOCs
+                mycarbonimpact
+                National 5
+                National Legislation
+                National Standards
+                NHS
+                Paper
+                PAs
+                password
+                PC
+                Personal
+                Personal Development
+                Personality testing
+                Practice
+                Principal Assessors
+                Protected Characteristics
+                QA
+                Qualification
+                Quality assurance
+                Quality assurance model
+                Question Paper
+                reference data
+                Repair
+                RM Assessor
+                Scoris
+                SCQF 5
+                Seeded
+                Senior External Verifiers
+                setting a grade boundary
+                SEVs
+                Silverlight
+                Simulation
+                Social Services
+                Software Development
+                SQA
+                SSCYP
+                STA
+                Standards adherence
+                Standards Testing Agency
+                statistical analysis pack
+                statistical materials
+                Structured
+                Subject
+                Supervisor
+                SVQ
+                SVQs in HealthCare
+                SVQs in Social Services
+                Technology
+                Technology Enabled Care
+                Tips
+                Type
+                Unstructured
+                Victimisation 
+
+            Showing 150 most popular tags
+            ft
+            fiston tshingombe
+            User profile
+            Blocks
+            User details
+
+                Edit profile
+
+                Email address
+                    tshingombefiston@gmail.com (Hidden from everyone except users with appropriate permissions)
+
+                Interests
+                        Course Assessment 
+
+            Privacy and policies
+
+                Contact the privacy officer
+                Data requests
+                Export all of my personal data
+                Delete my account
+                Policies and agreements
+
+            Course details
+
+                Course profiles
+                        CPD for centre staff/students participating in HNCs/SVQs in Social Services, Childhood Practices and Healthcare 2019/2020
+                        Delivering and Marking SQA Advanced Qualification Graded Units
+                        Personal Finance Award SCQF Level 6
+                        Developing a Coaching mind-set
+                        Art & Design Question Paper Marking
+
+            Miscellaneous
+
+                Blog entries
+                My certificates
+                Forum posts
+                Forum discussions
+                Learning plans
+
+            Reports
+
+                Browser sessions
+                Grades overview
+
+            Mobile app
+
+                This site has mobile app access enabled.
+                Download the mobile app.
+                ft
+                fiston tshingombe
+                Private files
+                You have currently used 38.4 MB of your 100 MB limit.
+
+                Files
+                Files
+                Maximum size for new files: 100 MB, overall limit: 100 MB
+                Files
+                Select all/none	
+                Select file 'thesis work experimental'	thesis work experimental 	24/03/25, 12:40	
+                	
+                Select file 'assessment scotish.docx'	assessment scotish.docx 	3/07/24, 13:05	7.7 MB	Word 2007 document
+                Select file 'engineering .docx'	engineering .docx 	29/10/23, 09:55	14.8 MB	Word 2007 document
+                Select file 'tshingimbe.docx'	tshingimbe.docx 	1/07/24, 13:51	8.5 MB	Word 2007 document
+                Select file 'tshingombe.docx'	tshingombe.docx 	1/07/24, 13:51	6.0 MB	Word 2007 document
+                Form actions
+
+            Skip to main content
+            SQA Academy
+
+                Home
+                Dashboard
+                My courses
+                Course categories
+                Get help
+                Contact form 
+
+            Collapse General
+
+                SQA logo
+                General
+                Welcome 
+
+            Collapse Unit 1: Money Management
+
+                Task 1: Taxation
+                Task 2: Methods of payment, savings and investments
+                Task 3: Legal, social, ethical and religious issues
+                Task 4: Insurance, welfare benefits
+                Task 5: Pensions, wills and estates 
+
+            Collapse Unit 2: Personal Finance in Action
+
+                Task 1 - Budgeting
+                Task 2 - Car payments, energy bills
+                Task 3 - Property, Purchase and rental
+                Task 4 - Borrowing
+                Task 5 - Inflation, interest and exchange rates 
+
+            Collapse Feedback
+
+                Feedback 
+
+            Personal Finance Award SCQF Level 6
+
+                Course
+                Competencies
+                More 
+
+            Topic outline
+
+                General
+
+                    Welcome to Personal Finance Award SCQF Level 6, fiston
+
+                    Please select the module below to get started.
+
+                    Introduction
+
+                    This pack is designed for learners studying the Level 6 Personal Finance Award. The Award is made up of two units:
+
+                    1.  Money Management
+
+                    2.  Personal Finance in Action
+
+                    To gain the Award learners must achieve both units.
+
+                    Once learners have studied the content of the units, they will sit their final assessments via SQA’s on screen assessment system (SOLAR).
+
+
+                    This pack is intended to help learners become familiar with the terms used in financial products and services and understand more about how they work and what they are used for before they sit their final assessment. Questions included in the final assessment will draw from the content of units one and two.
+
+                    Learners can use the explanations and descriptions given within this pack as a starting point for further investigation into the various topics covered, or they can use it as a reminder of the various topics covered.
+
+
+
+                    PLEASE NOTE
+
+                    Where terms are defined in this document by giving examples of specific values that might apply, the values given are usually based on 2021-22 rates. For example: VAT; Income Tax Bands; Land and Buildings Transaction Tax rates; ISA savings limit; Capital Gains Tax threshold; etc. Learners must be aware that the government has the authority to increase or decrease tax and threshold rates each year depending on inflation and other economic, societal or political factors.
+
+                Unit 1: Money Management
+                SCORM packages: 5
+                Unit 2: Personal Finance in Action
+                SCORM packages: 5
+                Feedback
+                    Feedback URL
+
+
+
+            SQA Staff Induction Dashboard
+
+            This sections contains links to all modules which are required to be completed by staff as part of their induction. 
+            Understanding SQA
+
+            This sections contains links to all modules which are required to be completed by staff as part of their induction.
+
+            Last updated 16 August 2023.
+            Health & Safety
+            Dignity at Work
+
+            This course is for SQA staff, the aim of this course is to identify the definition of Dignity at Work and explain how our values, culture and policies help us all to take responsibility to create and support a respectful, equal, and fair working environment. 
+            Autism Awareness
+
+
+            Our Culture
+            Anti-Bribery & Corruption
+
+            This Anti-Bribery Training module has been designed to be used by anyone who could be exposed to bribery and/or corruption. It explains what bribery is and helps to increase understanding of situations where gifts and hospitality shouldn’t be offered or accepted.
+            Protecting Information
+
+                Courses
+                SQA Staff
+                Develop yourself
+
+            Develop yourself
+
+                Category
+                More 
+
+            Course categories
+            Search courses
+            Develop yourself
+
+            Courses for staff looking to develop their knowledge and skills.
+            Recruitment Essentials
+            ISO and our Management Systems
+            Going Digital
+            Scotland's Languages
+
+            This course is for SQA Staff. If your a member of staff and cannot access the course, please contact das.helpdesk@sqa.org.uk
+            Your Development, Your Choice
+
+            A guide to owning your development in the workplace
+            Complaints Handling
+
+            SQA staff guide to handling complaints.
+            My Carbon Impact
+
+            This course is for all SQA staff and aims to raise your awareness of the environmental impact of everyday activities and the ability to reduce emissions, on an individual and organisational basis. The course will also develop your understanding of the wider challenges facing Scotland, the UK and the world as a result of the climate emergency.
+            A Guide to Remote Working
+
+            SQA Staff guide to Remote Working
+            Change Management
+
+            This course is for SQA staff. Please contact the OD and Change Practitioners if you have any questions.
+            Clear and Confident Writing
+
+            Here you’ll find modules to help you write more effectively for your audience.
+            Managing Stressful Situations at Work
+
+            This course is designed to support SQA colleagues when managing stressful situations at work.
+            Mental Health Matters
+
+            This course is designed to support SQA colleagues understand Mental Health and provide guidance on when and how to seek support, if needed. 
+            My Review
+
+            Audience: SQA Staff
+
+            Course owner: Organisational Development
+
+            Contact: odchange.team@sqa.org.uk
+            Resilience
+
+            This course is designed to support SQA colleagues understand the definition of Resilience and how to put it into practice.
+            Virtual Meeting Facilitation
+
+            We’ve gathered the following tips and best practices to support all staff members who are hosting and facilitating virtual meetings for colleagues, and stakeholders, inside and outside of SQA. 
+
+                Courses
+                SQA Staff
+                Equalities
+
+            Equalities
+
+                Category
+                More 
+
+            Course categories
+            Search courses
+            Equalities
+
+            Welcome to the Equalities section.
+
+            Equality, Diversity & Inclusion Training
+
+            This training aims to provide an overview of the Equality Act 2010, its impact for SQA and your responsibilities.
+            Introduction to WCAG (Web Content Accessibility Guidelines)
+
+            This short course will develop your understanding of Web Content Accessibility Guidelines (WCAG) and how you can apply them in your work.
+            Designing Inclusive Assessment
+
+            Designing Inclusive assessment
+            Equality Impact Assessment
+
+            This SQA course explains how Equality Impact Assessments are a valuable tool in creating and developing policies and practices which consider how what we do impacts on people, and specifically people with Protected Characteristics. Equality Impact Assessments allow us to create policies and practices which are inclusive and provide us with the opportunity to embed equalities into wider decision making.
+            Digital Accessibility Training
+
+            This course is aimed at SQA staff
+
+            Upon completion of this course, users should be able to:
+
+                Name relevant legislation underpinning accessibility measures.
+                Demonstrate familiarity with two key acronyms: UDL (Universal Design for Learning) and WCAG (Web Content Accessibility Guidelines).
+                Demonstrate knowledge of how to make documents and slideshows more accessible.
+                Identify and use free software or software features to check and enhance the accessibility of documents and slideshows.
+                Audit their everyday practice for accessibility and embed appropriate accessibility techniques. 
+                Identify individuals within the organisation who would benefit from sharing good accessibility practice.
+
+            Care Experience and Corporate Parenting
+            This is an introductory course to help learners understand more about care experience and their responsibilities as Corporate Parents. All images featured are the copyright of Who Cares? Scotland unless stated otherwise.
+            Course categories
+            Search courses
+            Information Governance
+
+            Welcome to the Information Governance section of SQA Academy.
+            Please select a course below to access it.
+            Freedom of Information
+            Records Management
+
+                Courses
+                SQA Staff
+                Line Management
+
+            Line Management
+
+                Category
+                More 
+
+            Course categories
+            Search courses
+            Line Management
+
+            Line management courses for any staff with line management
+            responsibilities, or who are interested in line management.
+            Please select a course below.
+            Line Manager Fundamentals
+
+                Courses
+                SQA Staff
+                Organisation roles
+
+            Organisation roles
+
+                Category
+                More 
+
+            Course categories
+            Search courses
+            Organisation roles
+
+            We have training for specific roles or tasks within SQA.
+            Please select a course below.
+            Benefits Management
+            Candidate Advice Line Training 2024
+
+            This training course is for 2024 CAL volunteers. You will find out more information on the processes involved, as well as helpful tips on providing excellent customer service.
+            Data Governance Training Programme
+            Business Continuity
+            Procurement C.S.M. training
+            About
+
+            This course is about Procurement Contract and Supplier management.
+            Audience
+
+            This course is aimed at the Procurement team, however all SQA staff are able to access the training.
+
+            Workplace Investigations
+
+            This course is mandatory training for colleagues who are going to be conducting a workplace investigation at SQA.
+
+            This course must be completed prior to conducting any workplace investigation.
+
+            This training book can also be used as a reference guide for investigators once they have completed the training.
+            Risk Management
+
+                urses
+                SQA Staff
+                Qualifications Development
+
+            Qualifications Development
+
+                Category
+                More 
+
+            Course categories
+            Search courses
+            Qualifications Development
+
+            We have training for tasks completed by the Qualifications Development directorate.
+            Please select a course below.
+            Finalisation
+
+                Courses
+                SQA Staff
+                DAS Staff Training
+
+            DAS Staff Training
+
+                Category
+                More 
+
+            Course categories
+            Search courses
+            DAS Staff Training
+
+            Welcome to the DAS staff training section.
+            SQA Academy staff training
+
+            This course contains training and guidance for SQA Academy team members. 
+            Helpdesk Training
+
+            This course has been designed as a resource to support DAS Helpdesk staff to resolve enquiries relating to the SQA Academy.
+            Marker Check
+
+                Courses
+                SQA Staff
+                NQ Assessment and Data Services
+
+            NQ Assessment and Data Services
+
+                Category
+                More 
+
+            Course categories
+            Search courses
+            NQ Assessment and Data Services
+
+            Courses for NQ Assessment and Data Services
+            E-Marking Helpdesk Training
+            Supervisor Training
+
+            Podcasts
+
+                Category
+                More 
+
+            Course categories
+            Search courses
+            Podcasts
+
+            Tune into a podcast and learn something new while you work
+            Academy Podcast
+
+            Learn while you work with Academy Podcasts. Each month we'll discuss all the things digital with guests from across the organisation.  
+            Podcast guidance
+
+            Welcome. Here you will find learning and materials relating to Contract Ops.
+            Protecting Information (Contract Ops) 2024
+            SQA Academy
+            Course categories
+            Search courses
+            Expand all
+            Assessment Development Fundamentals for Vocational Qualifications
+            External Agencies
+            International
+            Joint SQA/External Agencies
+            NextGen: HN
+            Open courses - available to everyone
+            SQA Appointees
+            SQA Centres
+            SQA Staff
+            Skip to main content
+            SQA Academy
+
+                Home
+                Dashboard
+                My courses
+                Course categories
+                Get help
+                Contact form 
+
+            Collapse
+
+                Welcome
+                Developing Vocational Assessments
+                Selecting Valid Assessment Methods for Vocational Qualifications
+                Developing Multiple Choice Assessments for HN/VQ
+                Feedback 
+
+            Assessment Development Fundamentals for Vocational Qualifications
+
+                Course
+                Competencies
+                More 
+
+            You are enrolled in the course.
+            Topic outline
+
+                    Welcome to Assessment Development Fundamentals for Vocational Qualifications, fiston
+
+                    Please select one of the modules below to get started.
+
+                    Developing Vocational Assessments SCORM package
+
+
+                    Feedback URL
+
+                Selecting Valid Assessment Methods for Vocational Qualifications SCORM package
+                Developing Multiple Choice Assessments for HN/VQ SCORM package
+
+            Standards and Testing Agency (STA)
+
+            This module is designed to support SQA staff and Qualification Development Specialists (QDS) in developing assessments for our vocational and externally regulated qualifications, however it provides content applicable across our portfolio.
+
+            By completing this module, you will:
+
+                become familiar with the basics of assessment theory
+
+                become familiar and compliant with SQA HN/VQ assessment development processes
+
+                be given some practical assessment development advice
+
+            Throughout the module there will be some reflection points and an end of course test to consolidate your knowledge and understanding, to prepare you for developing your own assessments.
+
+            This module should be used in conjunction with ‘SQA’s Code of Practice, Assessment: A Guide for Regulated Qualifications’ and the HNVQ Assessment Development Process dependent on whether this a paper based or online assessment. The full process for our paper based and online assessments is available on request from the Assessment Materials and SOLAR teams.
+
+
+
+
+            On Mon, Mar 24, 2025 at 11:47 AM <web.team@sqa.org.uk> wrote:
+
+                MyAlerts 	SQA
+
+                Dear Tshingombe ,
+
+                There have been no recent updates to the content you have subscribed to on the SQA website.
+
+                To change your page selection / frequency, or to unsubscribe, log in to your MyAlerts account.
+
+
+                You receive this update because you are subscribed to MyAlerts. This email is intended for the addressee only. Unsubscribe
+                 
+                Privacy and Cookies | About Us | Terms and Conditions | Visit our main website | Contact us
+                SQA, Optima Building, 58 Robertson Street, Glasgow, G2 8DQ, UK | Tel: 0303 333 0330
+                © 2021 All rights reserved
+                twitter 	facebook 	linkedin 	youtube
+
